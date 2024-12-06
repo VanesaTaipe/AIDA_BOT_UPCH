@@ -1,0 +1,153 @@
+{"cursos":[
+    {
+        "codigo": "C8288",
+        "nombre": "Desarrollo de Sistemas Web",
+        "prerequisito": ["C8287 - (Ingeniería de Software)"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "El curso de desarrollo de sistemas web es de naturaleza teórico-práctica y pertenece al área de formación de especialidad. Su propósito principal es la creación de un sistema web. Comprende los siguientes contenidos: Análisis del sistema, Diseño del sistema, Implementación del sistema. La asignatura culmina con el despliegue del sistema creado.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: Fundamentos y conceptos básicos de Business Intelligence y Preparación para BIFPC",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 2: Principios y Fundamentos de la Visualización de Datos",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 3: Visualización para el Análisis de Datos",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 4: Visualización para la Comunicación de Resultados",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Demostrar habilidades necesarias para crear visualizaciones claras, efectivas y persuasivas",
+          "Comprender la importancia de los fundamentos de la visualización de datos en el proceso de análisis de datos",
+          "Comunicación efectiva de insights, tendencias, patrones o resultados de análisis de datos de fácil interpretación y con impacto en la audiencia",
+          "Aplicar la gestión de conocimientos y habilidades obtenidos durante un curso, para la generación de dashboards"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Temple, Inés, 1967-. (2020). Usted S.A.: empleabilidad y marketing personal . Lima: Planeta."
+          ],
+          "complementaria": []
+        }
+    },
+    {
+        "codigo": "C8289", 
+        "nombre": "VISUALIZACIÓN",
+        "prerequisito": ["C8285 – HUMAN-CENTERED DESIGN"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Visualización es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito crear una aplicación de visualización de datos. Comprende los siguientes contenidos: Principios de la visualización, Visualización para el análisis de datos, Visualización para la comunicación de resultados. Culmina con un proyecto de visualización de datos usando lenguajes y plataformas de programación.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: Fundamentos y conceptos básicos de Business Intelligence y Preparación para BIFPC",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 2: Principios y Fundamentos de la Visualización de Datos",
+            "contenido": ""  
+          },
+          {
+            "titulo": "UNIDAD 3: Visualización para el Análisis de Datos",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 4: Visualización para la Comunicación de Resultados",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Comprender la importancia de los fundamentos de la visualización de datos en el proceso de análisis de datos",
+          "Demostrar habilidades necesarias para crear visualizaciones claras, efectivas y persuasivas",
+          "Comunicación efectiva de insights, tendencias, patrones o resultados de análisis de datos de fácil interpretación y con impacto en la audiencia",
+          "Aplicar la gestión de conocimientos y habilidades obtenidos durante un curso, para la generación de dashboards"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Claus O. Wilke; Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures;1st Edición; O'Reilly Media;USA;2019."
+          ],
+          "complementaria": [
+            "Julia Steele & Noah Iliinsky; Beautiful Visualization 1st Edición; O'Reilly Media;USA;2010.",
+            "Cole Nussbaumer Knaflic; Storytelling with Data: A Data Visualization Guide for Business Professionals 1st Edición;Wiley;USA; 2015",
+            "Ralph Kimball & Margy Ross;The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling 3rd Edición;Wiley;USA;2013"
+          ]
+        }
+    },
+    {
+        "codigo": "C0771",
+        "nombre": "Proyectos de Ingeniería 2",
+        "prerequisito": ["C0758 (Proyectos de Ingeniería 1)"],
+        "tipo": "OBLIGATORIO", 
+        "sumilla": "La asignatura de Proyectos de Ingeniería 2 es de naturaleza teórico - práctica y corresponde al área de formación específica. Tiene como objetivo consolidar competencias para el desarrollo de innovaciones enfocadas a la atención de necesidades en diversas ingenierías. Comprende los siguientes contenidos: prototipado de alta fidelidad, validación, documentación técnica.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: ANALISIS DE ESTADOS FINANCIEROS",
+            "contenido": "Principios de Contabilidad Generalmente Aceptados, Estado de Situación Financiera, Estado de Resultados, Estado de Flujos de Efectivos, EBIDTA (Earnings Before Interest Taxes Depreciation and Amortization), Análisis de Estados Financieros"
+          },
+          {
+            "titulo": "UNIDAD 2: FUNDAMENTOS DE INGENIERIA ECONOMICA",
+            "contenido": "Introducción, Diagrama de flujo de caja, Interés Simple, Interés Compuesto, Valor Presente, Valor Futuro, Factores de Recuperación de Capital..."
+          },
+          {
+            "titulo": "UNIDAD 3: GESTION DE PROYECTOS",
+            "contenido": "Introducción, Gestión de la Integración del Proyecto, Gestión del Alcance del Proyecto, Gestión del Cronograma del Proyecto..."
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Realizar comparaciones de retornos de inversión entre diferentes proyectos con el objetivo de proponer mejoras o cambios de infraestructura o tecnología",
+          "Analizar e interpretar los estados financieros de una empresa identificando los principales indicadores y su impacto en su salud financiera",
+          "Aplicar una guía de buenas prácticas de gestión de proyectos utilizando herramientas y técnicas para asegurar el éxito en las diferentes etapas de un proyecto: la concepción, planificación, la ejecución, monitoreo y control, y el cierre del proyecto"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Acebes Senovilla, F. Poza García, D. & López Paredes, A. (2022). Aplicaciones informáticas para la gestión de proyectos. 1. Dextra Editorial."
+          ],
+          "complementaria": [
+            "Arenal Laza, C. (2022). Gestión de Proveedores. MF1004. 1. Editorial Tutor Formación."
+          ]
+        }
+    },
+    {
+        "codigo": "C1342",
+        "nombre": "Desarrollo Profesional 2",
+        "prerequisito": ["170 créditos aprobados"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Desarrollo profesional 2 es de naturaleza teórico-práctica y corresponde al área de formación específica. Tiene como propósito desarrollar competencias de promoción de estudiantes en entidades y empresas del sector de la ingeniería. Comprende los siguientes contenidos: supervisión durante la práctica y calificación de informes en coordinación con el responsable asignado por la empresa, de acuerdo a las actividades realizadas por el practicante.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: Desarrollo de Habilidades Humanas",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 2: Planificación de Carrera y Empleabilidad",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 3: Preparación de Documentos Profesionales y Entrevistas",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 4: Tendencias Tecnológicas y Adaptación al Cambio",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Demostrar habilidades de comunicación asertiva y efectiva en diversos contextos",
+          "Desarrollar un plan de carrera a corto y mediano plazo",
+          "Diseñar y actualizar documentos profesionales que reflejen sus habilidades y experiencias",
+          "Aplicar una tecnología emergente en un problema real"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Temple, Inés, 1967-. (2020). Usted S.A.: empleabilidad y marketing personal . Lima: Planeta."
+          ],
+          "complementaria": [
+            "Autor (apellido paterno. Inicial del nombre); título del libro; vol.; editorial, país año. URL:"
+          ]
+        }
+    }   
+]}

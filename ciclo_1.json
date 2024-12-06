@@ -1,0 +1,270 @@
+{
+    "cursos": [
+      {
+        "codigo": "U0130",
+        "nombre": "CÁLCULO DIFERENCIAL PARA INGENIERÍA",
+        "prerequisito": ["Ninguno"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Asignatura de naturaleza teórico-práctica, del área de Estudios Generales, destinada a comprender conceptos del cálculo, a través de la resolución de problemas simples aplicados a la Biología, Física, Química, Bioquímica y otras ciencias. La asignatura desarrolla el concepto y aplicaciones de las funciones y sus límites, la derivada y funciones trascendentes. Contribuye también al desarrollo del razonamiento lógico-analítico y al manejo adecuado de la información.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: FUNCIONES Y SUS GRÁFICAS",
+            "contenido": "Notación de función - Dominio y Rango de una función - Gráfica de función - Transformaciones de funciones - Función compuesta"
+          },
+          {
+            "titulo": "UNIDAD 2: LÍMITES Y CONTINUIDAD",
+            "contenido": "Introducción al concepto de límites - Límites laterales - Propiedades de Límites - Técnica de cancelación y de racionalización - Límites en el infinito - El teorema del emparedado y algunos límites trigonométricos"
+          },
+          {
+            "titulo": "UNIDAD 3: LA DERIVADA",
+            "contenido": "La función derivada y su interpretación gráfica Derivabilidad y continuidad - Reglas de derivación: del producto, del cociente, regla de la cadena - La segunda derivada y derivadas de orden superior - Derivadas de funciones trigonométricas - Derivada de función exponencial y logaritmo - Teorema del Valor Medio - Derivación implícita"
+          },
+          {
+            "titulo": "UNIDAD 4: APLICACIONES DE LA DERIVADA",
+            "contenido": "Razón de cambio relacionadas - Funciones crecientes y decrecientes - extremos absolutos - Máximo y Mínimo con la primera derivada. Problemas de Máximos y Mínimo con la segunda derivada - Trazo de curvas - Problemas de optimización. Derivadas de Función exponencial y logarítmica. Modelos de crecimiento/decrecimiento y el concepto de vida media"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Describir las gráficas de funciones aplicando la forma numérica, analítica y gráfica",
+          "Interpretar la derivada usando el concepto de razón de cambio",
+          "Resolver problemas de optimización en situaciones concernientes a la ingeniería"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Larson R, Edwards B. Cálculo: Volumen I, Cengage Learning, 10 edición, 2016"
+          ],
+          "complementaria": [
+            "Guerrero Torres, G. (2019). Cálculo diferencial: un nuevo enfoque. Grupo Editorial Patria",
+            "Stewart, J. Cálculo de varias variables. Cengage 8a. edición, 2018",
+            "Guichard D. Calculus: Early Transcendentals. Lyryx, 2017"
+          ]
+        }
+      },
+      {
+        "codigo": "U0006",
+        "nombre": "FILOSOFÍA", 
+        "prerequisito": ["Ninguno"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Es una asignatura de naturaleza teórico-práctica, del área de Estudios Generales, que tiene como propósito desarrollar la argumentación y el pensamiento crítico, reflexivo y creativo, así como, desarrollar el juicio moral y la responsabilidad en los estudiantes. Abarca los siguientes aspectos: teoría del conocimiento, la epistemología, algunos tópicos de la filosofía de la mente, la conducta bio-psico-social y la teoría moral.",
+        "unidades": [
+          {
+            "titulo": "CONCEPTOS GENERALES",
+            "contenido": "Naturaleza de la filosofía. Etimología de la palabra filosofía y tradición filosófica. La pregunta filosófica. Definiciones de Filosofía. Relación entre ciencia y filosofía. La crítica y la filosofía. Las creencias y la filosofía"
+          },
+          {
+            "titulo": "UNIDAD 1: ANTROPOLOGÍA FILOSÓFICA",
+            "contenido": "¿Existe una naturaleza humana? ¿Cuál es el lugar del ser humano en la naturaleza? ¿Cuál es el lugar del ser humano en el mundo de las cosas? ¿Existe un propósito para la naturaleza humana?"
+          },
+          {
+            "titulo": "UNIDAD 2: TECNO-PODER",
+            "contenido": "¿Responde a algún propósito la tecnología? ¿La tecnología es sólo una suma de artefactos? ¿Cómo influye la tecnología en nuestra vida? ¿Qué tipo de orden social surge del desarrollo tecnológico? ¿Cuál es el futuro de la tecnología en tiempos de Big Data?"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Reconocer las diferentes concepciones acerca de la naturaleza humana y es capaz de problematizarlas y criticarlas",
+          "Reconocer a la ciencia como un soporte de sentido intencional que se traduce en los mecanismos de regulación del poder en sociedades modernas"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Politzer, G. (2020). Principios elementales y fundamentales de filosofía. Ediciones Akal",
+            "López Sáenz, M. D. C. y Lavernia Biescas, K. (2019). Sendas de acceso a la filosofía"
+          ],
+          "complementaria": [
+            "Rorty, R. (2020). Filosofía y futuro. Editorial Gedisa",
+            "López-Silva, P. y Osorio, F. (2020). Filosofía de la mente y psicología: enfoques interdisciplinarios"
+          ]
+        }
+      },
+      {
+        "codigo": "U0148",
+        "nombre": "INTRODUCCIÓN A INGENIERÍA INFORMÁTICA",
+        "prerequisito": ["Ninguno"],
+        "tipo": "OBLIGATORIO", 
+        "sumilla": "Asignatura de naturaleza teórica que corresponde al área de formación de estudios generales. Tiene como objetivo presentar las principales áreas de concentración de la carrera y familiarizarse con herramientas existentes en el área. Comprende los siguientes contenidos: Informática Biomédica, Ciencia de Datos, Ingeniería de Software y Herramientas de Programación. Culmina con la presentación de temas de actualidad en Ingeniería Informática.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: BIOMEDICAL COMPUTING",
+            "contenido": "1. Presentación del Curso, 2. Presentación de la Carrera Profesional de Ingeniería Informática, 3. Bioinformática"
+          },
+          {
+            "titulo": "UNIDAD 2: DATA SCIENCE",
+            "contenido": "1. Ciencia de Datos en la Industria"
+          },
+          {
+            "titulo": "UNIDAD 3: INGENIERÍA DE SOFTWARE",
+            "contenido": "1. Tecnologías de la Información, 2. Scrum Fundamentals Certified (SFC™)"
+          },
+          {
+            "titulo": "UNIDAD 4: APLICACIONES",
+            "contenido": "1. Programación en Python"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Conocer aspectos de sintaxis, paradigmas y abstracciones de lenguajes de programación modernos para la construcción de software",
+          "Identificar necesidades de gestión de proyectos para el desarrollo de soluciones de software colaborativas"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Vasconcelos santillán, J. (2018). Introducción a la computación (Serie Bachiller)",
+            "Chaos García, D. (2017). Introducción a la Informática básica",
+            "Nolasco Velasco, J. (2018). Python : Aplicaciones prácticas"
+          ],
+          "complementaria": [
+            "D'Andrea, E. (2019). Aprende a programar jugando con Scratch (Informática)",
+            "Ruiz González, F. (2019). Mantenimiento y evolución de sistemas de información",
+            "Holmes, D., & Otero-Piñeiro, D. (2018). Big Data : Una breve introducción"
+          ]
+        }
+      },
+      {
+        "codigo": "U0129",
+        "nombre": "ÁLGEBRA MATRICIAL Y GEOMETRÍA ANALÍTICA",
+        "prerequisito": ["Ninguno"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Asignatura de naturaleza teórico - práctico que corresponde al área de Estudios Generales. Provee a los estudiantes los conocimientos matemáticos que permiten describir y estudiar el álgebra y la geometría conjuntamente. El estudiante desarrollará conceptos y habilidades necesarios para transformar los problemas geométricos en problemas algebraicos y resolverlos analíticamente, al mismo tiempo que aprenderá a expresarse, a interpretar y a manejar resultados que lo transformará al entorno real mediante sus proyectos de aplicación.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: Matrices. Determinantes. Sistemas lineales",
+            "contenido": "Cálculo de determinantes, Matriz inversa, Rango de una matriz, Sistema de ecuaciones lineales"
+          },
+          {
+            "titulo": "UNIDAD 2: Espacios lineales y euclídeos - Aplicaciones lineales",
+            "contenido": "Espacio lineal - Subespacios lineales - Dependencia lineal, Base. Dimensión. Cambio de base, Método de ortogonalización. Complemento ortogonal, Imagen y núcleo de una aplicación lineal, Matriz de un operador lineal, Valores propios y vectores propios"
+          },
+          {
+            "titulo": "UNIDAD 3: Rectas y planos - Elementos de álgebra vectorial",
+            "contenido": "Rectas en el plano - El plano, Rectas en el espacio, Operaciones lineales con vectores, Proyección de un vector sobre un eje, Productos escalar, vectorial y mixto"
+          },
+          {
+            "titulo": "UNIDAD 4: Curvas y superficies de segundo orden",
+            "contenido": "Transformación de coordenadas en el plano, Curvas de segundo orden, Propiedad óptica de las curvas de segundo orden, Algunas clases de superficies"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Identifica y aplica los fundamentos de matrices y determinantes en la resolución de ejercicios y en situaciones problemáticas cotidianos",
+          "Reconoce la definición de dependencia lineal y resuelve ejercicios en situaciones frecuentes relacionados a su especialidad",
+          "Diferencia las formas de representación vectorial, así como las leyes matemáticas que las gobiernan salvando algunas diferencias con los números reales",
+          "Define las ecuaciones de las curvas y superficies de segundo orden y resuelve ejercicios elementales relacionados a la transformación de coordenados en el plano"
+        ],
+        "bibliografia": {
+          "basica": [
+            "V. Gregori Gregori (2017). Algebra Matricial. Editorial de la Universidad Politécnica de Valencia",
+            "D. Pool. (2017). Álgebra Lineal (4ta. Ed.). Editorial CENGAGE",
+            "E. Carpinteyro Virgil (2018). Geometría Analítica. Grupo Editorial Patria"
+          ],
+          "complementaria": [
+            "Gutiérrez González E. y Ochoa García S.I. Álgebra lineal y sus aplicaciones. México D.F: Grupo Editorial Patria, 2015",
+            "A. Aguilar M. (2016). Geometría Analítica (4ta. Ed.). Editorial Pearson Educación"
+          ]
+        }
+      },
+      {
+        "codigo": "UO126",
+        "nombre": "QUIMICA GENERAL",
+        "prerequisito": ["Ninguno"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "En el curso se estudian los principios básicos de la materia y de la estructura atómica moderna, que son la base para tratar el enlace químico (iónico, covalente y metálico). Además, se estudian los estados de la materia, que incluyen las leyes de los gases, las propiedades de los líquidos y sólidos y los cambios de fases. Se abordan los temas de soluciones (tipos y cálculo de concentraciones) y la estequiometria de las reacciones químicas. Se proporcionan los conceptos básicos de estequiometria, termoquímica, y equilibrio químico. Los temas se desarrollan brindando ejemplos de situaciones en donde son aplicados, con énfasis en aquellos de interés para la ciencia y la tecnología. Los temas son complementados con sesiones de laboratorio, que sirven para desarrollar la capacidad de observación, análisis y manejo de datos y relacionar los conceptos estudiados, con sus observaciones experimentales, para poder llegar a conclusiones y formular una explicación al experimento realizado, expresando observaciones y resultados en un reporte escrito.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: ESTRUCTURA Y COMPOSICIÓN DE LA MATERIA",
+            "contenido": [
+              "Materia y energía: clasificación, cambios de estado y propiedades. Energía cinética y potencial. Espectro electromagnético.",
+              "Estructura atómica. Modelo atómico moderno. Electrones. Iones. Radioisótopos. Tabla periódica. Propiedades periódicas de los elementos.",
+              "Clases de compuestos químicos. Estados de oxidación. Mol y Número de Avogadro. Estequiometría. Balanceo de ecuaciones. Reactivo limitante y rendimiento de las reacciones químicas.",
+              "Enlaces químicos. Electrones de valencia y simbología de Lewis. Enlace iónico. Propiedades de compuestos iónicos. Enlace covalente.",
+              "Geometría Molecular. Momento dipolar. Fuerzas intermoleculares."
+            ]
+          },
+          {
+            "titulo": "UNIDAD 2: ESTADOS DE AGREGACIÓN Y PROPIEDADES DE LAS MEZCLAS",
+            "contenido": [
+              "Sólidos: Diagramas de Fase, propiedades físicas",
+              "Gases: Leyes de los gases, ecuación de gases ideales, teoría cinético-molecular",
+              "Líquidos: características y propiedades",
+              "Soluciones: solubilidad, concentraciones, propiedades coligativas"
+            ]
+          },
+          {
+            "titulo": "UNIDAD 3: CINÉTICA QUÍMICA Y EQUILIBRIO QUÍMICO",
+            "contenido": [
+              "Cinética química: velocidad de reacción, orden de reacción, factores que afectan la velocidad",
+              "Equilibrio químico: constante de equilibrio, principio de Le Châtelier",
+              "Equilibrio iónico: ácidos y bases, pH, soluciones amortiguadoras"
+            ]
+          },
+          {
+            "titulo": "UNIDAD 4: TERMODINÁMICA Y ELECTROQUÍMICA", 
+            "contenido": [
+              "Termoquímica: sistema y alrededores, entalpía, calorimetría",
+              "Termodinámica: entropía, energía libre de Gibbs, espontaneidad",
+              "Electroquímica: reacciones REDOX, celdas electroquímicas"
+            ]
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Caracterizar la materia según su composición y estructura en orden progresivo de su complejidad",
+          "Representar especies químicas para determinar las interacciones responsables de las propiedades de las sustancias",
+          "Resolver problemas que involucran la estequiometría de reacciones reversibles e irreversibles en los diferentes estados de agregación y en disolución acuosa", 
+          "Resolver problemas que involucran cálculos termoquímicos relativos a procesos reversibles e irreversibles"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Chang, R., Overby, J. (2020). Química. McGraw-Hill."
+          ],
+          "complementaria": [
+            "Morcillo Ortega, M. J. & Gallego Picó, A. (2018). Química básica. UNED - Universidad Nacional de Educación a Distancia",
+            "Ramírez Regalado, V. M. (2017). Química 1 (4a. ed.). Grupo Editorial Patria",
+            "Goldsby, K. A. & Chang, R. (2017). Química (12a. ed.). McGraw-Hill España"
+          ]
+        }
+      },
+      {
+        "codigo": "U0082",
+        "nombre": "Comunicación y Redacción I",
+        "prerequisito": [],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Es una asignatura de naturaleza teórico-práctica del área de Estudios Generales, que tiene como finalidad que los estudiantes desarrollen la capacidad de la expresión oral y escrita, aplicando eficazmente la normativa castellana, y potenciar la comprensión lectora inferencial y de extrapolación. Comprende el dominio de la normativa gramatical y ortográfica del castellano, las técnicas de comprensión textual, las estrategias para la exposición oral y para la redacción de textos expositivos breves de tipo problema-solución, comparativos, descriptivos e informativos, y la formulación de argumentos breves.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: FUNDAMENTOS DEL LENGUAJE Y LA ESCRITURA",
+            "contenido": [
+              "Normativa ortográfica",
+              "El registro formal del castellano",
+              "La comunicación",
+              "Funciones comunicativas",
+              "Realidad lingüística del Perú",
+              "Normativa gramatical: La concordancia y empleo adecuado de categorías gramaticales"
+            ]
+          },
+          {
+            "titulo": "UNIDAD 2: LA INTERPRETACIÓN DEL TEXTO (ORAL Y ESCRITA)",
+            "contenido": [
+              "El texto: La comprensión lectora.",
+              "Técnicas de comprensión lectora, análisis de textos.",
+              "La inferencia y la extrapolación",
+              "Las propiedades del texto: Coherencia y cohesión"
+            ]
+          },
+          {
+            "titulo": "UNIDAD 3: LA REDACCIÓN Y EL DISCURSO ORAL",
+            "contenido": [
+              "La redacción breve: el párrafo (tipos)",
+              "La corrección de textos",
+              "El texto expositivo",
+              "Redacción de párrafos de texto expositivo",
+              "La argumentación breve"
+            ]
+          }
+        ],
+        "resultados_aprendizaje": [
+          "El estudiante será capaz de emplear el registro formal del castellano en la expresión oral y en la expresión escrita de textos académicos breves con coherencia y seguridad del conocimiento adquirido.",
+          "El estudiante será capaz de comprender y analizar eficazmente textos académicos en distintos niveles (literal, inferencial y crítico).",
+          "El estudiante será capaz de redactar textos breves de tipo expositivo y argumentar sobre temas polémicos de interés con solvencia, seguridad y coherencia, a partir de fuentes académicas pertinentes, respetando a sus interlocutores y el derecho de autor de las fuentes empleadas."
+        ],
+        "bibliografia": {
+          "basica": ["Faramiñán Gilbert, J. M. D. (2018). Oráculo verbal: sobre el arte de la palabra: técnicas deoratoria clásica y moderna. Universidad de Jaén","https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/12266"],
+          "complementaria": []
+        }
+      }
+    ]
+  }

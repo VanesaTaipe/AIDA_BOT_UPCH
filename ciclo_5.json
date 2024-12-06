@@ -1,0 +1,213 @@
+{
+    "cursos":[
+        {
+            "codigo": "C8280",
+            "nombre": "Comunicación de Datos y Redes",
+            "prerequisito": ["40 CRÉDITOS APROBADOS"],
+            "tipo": "OBLIGATORIO",
+            "sumilla": "Este curso de naturaleza teórica-práctica, permite al estudiante adquirir las habilidades y conocimientos fundamentales y prácticos sobre los conceptos de redes, de internet, computación en la nube y su aplicación en áreas como aprendizaje automático utilizando tecnologías como Amazon Web Services (AWS) en el desarrollo de actividades prácticas y proyectos grupales.",
+            "unidades": [
+              {
+                "titulo": "UNIDAD 1: Fundamento de Redes",
+                "contenido": "Introducción a las redes, TCP y protocolos de Internet, Sistema de nombre de dominio"
+              },
+              {
+                "titulo": "UNIDAD 2: Computación en la nube y AWS",
+                "contenido": "Conceptos fundamentales de computación en la nube, Introducción a AWS y la infraestructura global, Gestión de identidad y acceso en AWS, Servicio de almacenamiento simple de Amazon"
+              },
+              {
+                "titulo": "UNIDAD 3: Uso de la tecnología AWS",
+                "contenido": "Servicios de red de AWS, Introducción a Amazon EC2, Servicios de base de datos de AWS, Análitica en AWS, Automatización e implementación en AWS"
+              },
+              {
+                "titulo": "UNIDAD 4: Aprendizaje Automático con AWS",
+                "contenido": "Desarrollo del proyecto final"
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Conocer los conceptos fundamentales de redes y computación en la nube",
+              "Reconocer las diversas tecnologías que implica el concepto fundamental de nube y los servicios de procesamientos que brinda",
+              "Aplicar la pila arquitectónica de AWS en la resolución de problemas relacionados a ciencia de datos"
+            ],
+            "bibliografia": {
+              "basica": [
+                "Internet Infrastructure Networking, Web Services, and Cloud Computing Richard Fox, Wei Hao. CRC Press Taylor & Francis Group 2018",
+                "AWS Certified Cloud Practitioner Study Guide: CLF-C01 Exam 1st Edition Ben Piper y David Clinton. Sybex; 1st edition 2019"
+              ],
+              "complementaria": [
+                "Essentials of Cloud Computing A Holistic Perspective, Chellammal Surianarayanan Pethuru Raj Chelliah Springer Nature Switzerland AG 2019",
+                "Migrating to AWS: A Manager's Guide: How to Foster Agility, Reduce Costs, and Bring a Competitive Edge to Your Business, Jeff Armstrong. O'Reilly Media; 1st edition 2020",
+                "The Cloud-to-Thing Continuum Opportunities and Challenges in Cloud, Fog and Edge Computing. Theo Lynn y John G. Mooney, Palgrave Studies in Digital Business & Enabling Technologies 2020",
+                "Cisco Certified DevNet Associate DEVASC 200-901 Official Cert Guide, Chris Jackson, Jason Gooley, Adrian Iliesiu., Ashutosh Malegaonkar. Cisco Press; 1st edition 2020",
+                "Fundamentals of Communications and Networking (Issa: Information Systems Security & Assurance). Michael G. Solomon, David Kim. Jones & Bartlett Learning; 3rd edition 2021",
+                "AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt 1st Edition Somanath Nanda, Weslley Moura Packt Publishing; 1st edition 2021",
+                "Effective Data Science Infrastructure: How to make data scientists productive Ville Tuulos, Manning 2022",
+                "Accelerate Deep Learning Workloads with Amazon SageMaker: Train, deploy, and scale deep learning models effectively using Amazon SageMaker, Vadim Dabravolski. Packt Publishing 1st edition 2022"
+              ]
+            }
+        },
+        {
+              "codigo": "C8280",
+              "nombre": "Comunicación de Datos y Redes",
+              "prerequisito": ["40 CRÉDITOS APROBADOS"],
+              "tipo": "OBLIGATORIO",
+              "sumilla": "Este curso de naturaleza teórica-práctica, permite al estudiante adquirir las habilidades y conocimientos fundamentales y prácticos sobre los conceptos de redes, de internet, computación en la nube y su aplicación en áreas como aprendizaje automático utilizando tecnologías como Amazon Web Services (AWS) en el desarrollo de actividades prácticas y proyectos grupales.",
+              "unidades": [
+                {
+                  "titulo": "UNIDAD 1: Fundamento de Redes",
+                  "contenido": "Introducción a las redes, TCP y protocolos de Internet, Sistema de nombre de dominio"
+                },
+                {
+                  "titulo": "UNIDAD 2: Computación en la nube y AWS",
+                  "contenido": "Conceptos fundamentales de computación en la nube, Introducción a AWS y la infraestructura global, Gestión de identidad y acceso en AWS, Servicio de almacenamiento simple de Amazon"
+                },
+                {
+                  "titulo": "UNIDAD 3: Uso de la tecnología AWS",
+                  "contenido": "Servicios de red de AWS, Introducción a Amazon EC2, Servicios de base de datos de AWS, Análitica en AWS, Automatización e implementación en AWS"
+                },
+                {
+                  "titulo": "UNIDAD 4: Aprendizaje Automático con AWS", 
+                  "contenido": "Desarrollo del proyecto final"
+                }
+              ],
+              "resultados_aprendizaje": [
+                "Conocer los conceptos fundamentales de redes y computación en la nube",
+                "Reconocer las diversas tecnologías que implica el concepto fundamental de nube y los servicios de procesamientos que brinda",
+                "Aplicar la pila arquitectónica de AWS en la resolución de problemas relacionados a ciencia de datos"
+              ],
+              "bibliografia": {
+                "basica": [
+                  "Internet Infrastructure Networking, Web Services, and Cloud Computing Richard Fox, Wei Hao. CRC Press Taylor & Francis Group 2018",
+                  "AWS Certified Cloud Practitioner Study Guide: CLF-C01 Exam 1st Edition Ben Piper y David Clinton. Sybex; 1st edition 2019"
+                ],
+                "complementaria": [
+                  "Essentials of Cloud Computing A Holistic Perspective, Chellammal Surianarayanan Pethuru Raj Chelliah Springer Nature Switzerland AG 2019",
+                  "Migrating to AWS: A Manager's Guide: How to Foster Agility, Reduce Costs, and Bring a Competitive Edge to Your Business, Jeff Armstrong. O'Reilly Media; 1st edition 2020",
+                  "The Cloud-to-Thing Continuum Opportunities and Challenges in Cloud, Fog and Edge Computing. Theo Lynn y John G. Mooney, Palgrave Studies in Digital Business & Enabling Technologies 2020",
+                  "Cisco Certified DevNet Associate DEVASC 200-901 Official Cert Guide, Chris Jackson, Jason Gooley, Adrian Iliesiu., Ashutosh Malegaonkar. Cisco Press; 1st edition 2020",
+                  "Fundamentals of Communications and Networking (Issa: Information Systems Security & Assurance). Michael G. Solomon, David Kim. Jones & Bartlett Learning; 3rd edition 2021",
+                  "AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt 1st Edition Somanath Nanda, Weslley Moura Packt Publishing; 1st edition 2021",
+                  "Effective Data Science Infrastructure: How to make data scientists productive Ville Tuulos, Manning 2022",
+                  "Accelerate Deep Learning Workloads with Amazon SageMaker: Train, deploy, and scale deep learning models effectively using Amazon SageMaker, Vadim Dabravolski. Packt Publishing 1st edition 2022"
+                ]
+              }
+        },
+        {
+              "codigo": "C8279",
+              "nombre": "Sistemas Operativos", 
+              "prerequisito": ["C2876"],
+              "tipo": "OBLIGATORIO",
+              "sumilla": "La asignatura de Sistemas Operativos es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito comprender la estructura de los sistemas operativos y su funcionamiento. Comprende los siguientes contenidos: Procesos y sincronización, Gestión de Memoria, Sistemas Operativos Móviles.",
+              "unidades": [
+                {
+                  "titulo": "UNIDAD 1: Sistemas operativos, gestión de procesos",
+                  "contenido": "Conceptos de sistemas operativos. Sistemas por lotes, multiprogramación. Sistema de tiempo compartido, sistemas paralelos. Sistemas de tiempo real y distribuido. Software libre, distribuciones, kernel. Entorno gráfico, modos de arranque"
+                },
+                {
+                  "titulo": "UNIDAD 2: Gestión de memoria, gestión de archivos y E/S",
+                  "contenido": "Administración de memoria Vinculación de direcciones. Espacio de direcciones lógicas contra físicas, Intercambio (Swapping), Asignación de memoria contigua, Paginación, Segmentación"
+                },
+                {
+                  "titulo": "UNIDAD 3: Sistemas distribuidos y red, seguridad y protección",
+                  "contenido": "Sistemas distribuidos Conceptos. Estructura de redes. Ventajas de los sistemas distribuidos. Tipos de sistemas operativos distribuidos. Comunicación, Sistemas de Archivos Distribuidos"
+                }
+              ],
+              "resultados_aprendizaje": [
+                "Comprender la estructura de los sistemas operativos tradicionales y la instalación de un sistema operativo de distribución libre",
+                "Generar una solución informática, administrando procesadores, memoria, periféricos e información"
+              ],
+              "bibliografia": {
+                "basica": [
+                  "Tanenbaum, A. Sistemas operativos aspectos internos y de diseño. Pearson Prentice Hall",
+                  "Stallings W.(2005). Sistemas operativos. Pearson Prentice Hall"
+                ],
+                "complementaria": [
+                  "Castellanos, Luis. (2014). Sistemas operativos",
+                  "Rafael Capurro. Epistemología y ciencia de la información. El Cid Editor",
+                  "Daniel Sol Llaven - Autor. Sistemas operativos: panorama para la ingeniería en computación e informática. Grupo Editorial Patria",
+                  "José Luis Raya Cabrera - Autor. Sistemas operativos en red. Macmillan Iberia, S.A.",
+                  "Cura, Norberto Julián. Fundamentos de sistemas operativos. Jorge Sarmiento Editor - Universitas"
+                ]
+              }
+        },
+        {
+              "codigo": "C1324",
+              "nombre": "Fundamentos de Diseño",
+              "prerequisito": ["C8191"],
+              "tipo": "OBLIGATORIO", 
+              "sumilla": "La asignatura de Fundamentos de Diseño es de naturaleza teórico - práctica y pertenece al área de formación específica. Tiene como objetivo desarrollar en el estudiante competencias para diseñar, implementar, verificar, patentar y operar proyectos de innovación. Comprende el siguiente contenido: identificar la necesidad o problema, crear Conceptos de solución, implementar la Solución, comunicar los Resultados.",
+              "unidades": [
+                {
+                  "titulo": "UNIDAD 1: IDENTIFICA LA NECESIDAD O PROBLEMA",
+                  "contenido": "Introducción al curso, formación de equipos, análisis de los casos. Diseño de páginas web, Identificación del problema y revisión bibliográfica"
+                },
+                {
+                  "titulo": "UNIDAD 2: CREAR CONCEPTOS DE SOLUCIÓN",
+                  "contenido": "Documentación de proyectos e introducción al proceso de diseño determinístico, Fundamentos de Electrónica I, Seminario Metodología de Diseño VDI 2221 y 2225 (Evaluación técnica - económica), Seminario de dibujo técnico y bocetos, Seminario de modelado 3D, Revisión de Tabla Técnica y Económica, Fundamentos de Electrónica II, Prototipado y Manufactura Digital"
+                },
+                {
+                  "titulo": "UNIDAD 3: IMPLEMENTA LA SOLUCIÓN",
+                  "contenido": "Diseño de Software (Aplicativos y Software colaborativo), Técnicas de integración y depuración de errores"
+                },
+                {
+                  "titulo": "UNIDAD 4: COMUNICA LOS RESULTADOS",
+                  "contenido": "Elevator pitch, Economía circular y desarrollo sostenible, Presentación oral, informe escrito y página web, Presentación de póster"
+                }
+              ],
+              "resultados_aprendizaje": [
+                "Identificación y Análisis de Problemas: La capacidad de identificar, formular, buscar información y analizar problemas complejos de ingeniería para llegar a conclusiones fundamentadas usando principios básicos de matemáticas y ciencias de la ingeniería",
+                "Desarrollo de Soluciones: La capacidad de diseñar soluciones para problemas complejos de ingeniería y diseñar sistemas, componentes o procesos para satisfacer necesidades deseadas dentro de restricciones realistas en los aspectos de seguridad, cultural, social, económico y ambiental",
+                "Uso de Herramientas Modernas: La capacidad de crear, seleccionar y utilizar técnicas, habilidades, recursos y herramientas modernas de la ingeniería y de las tecnologías de la información",
+                "Comunicación: La capacidad de comunicarse eficazmente, mediante la comprensión y redacción de informes eficaces y documentación de diseño, la realización de exposiciones eficaces, y la transmisión y recepción de instrucciones claras"
+              ],
+              "bibliografia": {
+                "basica": [
+                  "Mark D, David G, Dulcinea OP; Innovación: Una Breve Introducción; Antoni Bosch Editor; 2019"
+                ],
+                "complementaria": [
+                  "Cross N; Engineering Design Methods: Strategies for Product Design; 4th Edition. 2008"
+                ]
+              }
+        },
+        {
+              "codigo": "C8278",
+              "nombre": "Análisis y diseño de algoritmos",
+              "prerequisito": ["C8277"],
+              "tipo": "OBLIGATORIO",
+              "sumilla": "La asignatura de Análisis y Diseño de Algoritmos es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito analizar la complejidad computacional de algoritmos y programas y evaluar su factibilidad. Comprende los siguiente contenidos: Modelos de computación y complejidad, Inducción Matemática y Recurrencias, Programación Dinámica. Diseña algoritmos y analiza su complejidad computacional.",
+              "unidades": [
+                {
+                  "titulo": "UNIDAD 1: Fundamentos de Algoritmos",
+                  "contenido": "Notación asintótica, Recurrencias, Cota inferior de ordenación, algoritmos lineales de ordenación y Diseño de algoritmos de inducción/divide y vencerás"
+                },
+                {
+                  "titulo": "UNIDAD 2: Técnicas avanzadas de diseño y análisis de algoritmos",
+                  "contenido": "Programación dinámica y Algoritmos voraces"
+                },
+                {
+                  "titulo": "UNIDAD 3: Algoritmos en grafos",
+                  "contenido": "Árbol recubridor mínimo, Algoritmo de Kruskal, Algoritmo de Prim, Componentes fuertemente conectados y Algoritmo de Kosaraju"
+                },
+                {
+                  "titulo": "UNIDAD 4: Clases de problemas algorítmicos y metaheurísticas",
+                  "contenido": "Tiempo polinómico, verificación en tiempo polinomial, NP-completitud y reducibilidad, problemas NP-completos, metaheurísticas de búsqueda, algoritmos genéticos y Búsqueda tabú"
+                }
+              ],
+              "resultados_aprendizaje": [
+                "Resolver problemas computacionales en función del tamaño de la entrada",
+                "Argumentar con fundamentos la correctitud de un algoritmo",
+                "Argumentar con fundamentos la eficiencia de un algoritmo",
+                "Reconocer clases de problemas algorítmicos (P, NP, NP-Completo y NP-difícil)",
+                "Usar métodos heurísticos para resolver problemas de optimización"
+              ],
+              "bibliografia": {
+                "basica": [
+                  "Cormen TH, Leiserson CE, Rivest RL, Stein C, Introduction to Algorithms 4rd Ed; MIT Press, USA, 2022"
+                ],
+                "complementaria": [
+                  "Luke, S. Essentials of metaheuristics 2nd Ed. Raleigh: Lulu., USA, 2013"
+                ]
+              }
+        }
+    ]
+}

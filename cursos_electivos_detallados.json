@@ -1,0 +1,215 @@
+{
+    "cursos electivos":[
+        {
+            "codigo": "C0359",
+            "nombre": "Tópicos Avanzados en Sistemas de Información",
+            "prerequisito": ["C0359"],
+            "tipo": "ELECTIVO",
+            "sumilla": "La asignatura de Tópicos Avanzados en Sistemas de Información es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito sintetizar el progreso en un campo asociado a los sistemas de información. Comprende los siguientes contenidos: Introducción al área específica, Desarrollos Actuales, Perspectivas futuras. Culmina con la presentación de un informe o desarrollo de proyecto.",
+            "unidades": [
+              {
+                "titulo": "UNIDAD 1: FUNDAMENTOS DE ASEGURAMIENTO DE LA CALIDAD",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 2: FUNDAMENTOS DEL CONTROL DE CALIDAD DE SOFTWARE",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 3: FUNDAMENTOS DE SIG SIXMA WHITE BELT",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 4: FUNDAMENTOS DE GESTIÓN DE SERVICIOS TI (ITIL)",
+                "contenido": "" 
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Conocer los fundamentos del aseguramiento de la calidad",
+              "Conocer y certificarse en fundamentos de Lean Sig Sixma White Belt",
+              "Conocer los fundamentos de gestión de servicios de tecnologías de información"
+            ],
+            "bibliografia": {
+              "basica": [
+                "Van Bon, J., & Verheijen, T. (2011). Fundamentos de Gestión de Servicios de TI con ITIL 2011: ITIL Edition. Van Haren Publishing."
+              ],
+              "complementaria": [
+                "Díaz, J., Serrano, M., & García, P. (2016). Gestión de servicios en el sistema informático. Editorial CEP.",
+                "Van Haren Publishing. (2012). ISO/IEC 20000: Gestión de servicios TI. Van Haren Publishing.",
+                "Rubio, J. L. (2016). ITIL Foundation: La guía de estudio oficial. CreateSpace Independent Publishing Platform.",
+                "Beltrán, G. (2018). Gestión de servicios de tecnologías de la información con ISO/IEC 20000. Gestión 2000.",
+                "Llauró, J. (2017). Dirección y gestión de servicios TI basado en ITIL®. Profit Editorial"
+              ]
+            }
+          },
+          {
+            "codigo": "C8294",
+            "nombre": "Métodos Numéricos y Optimización para Machine Learning",
+            "prerequisito": ["C8281"],
+            "tipo": "ELECTIVO",
+            "sumilla": "La asignatura de Métodos Numéricos y Optimización para Machine Learning es de naturaleza teórico-práctica y corresponde al área de formación de especialidad como asignatura electiva. Las técnicas de Machine Learning se convirtieron en la actualidad en foco de estudio académico y su uso en la industria es cada vez mayor. Esto, acompañado de la libre disposición de paquetes de software que lo implementan, lo volvieron fácil de utilizar. Sin embargo, esto trae como peligro que los profesionales desconozcan cuál es el diseño por tras de estos algoritmos, y por tanto, desconozcan de los límites de los métodos de machine learning.",
+            "unidades": [
+              {
+                "titulo": "UNIDAD 1: Optimización Numérica",
+                "contenido": "Repaso de Cálculo - Funciones convexas y Gradiente Descendente – Programación Lineal – Problemas de optimización convexa con restricciones – Multiplicadores de lagrange y dualidad - Aplicaciones a Machine Learning"
+              },
+              {
+                "titulo": "UNIDAD 2: Métodos Numéricos en Álgebra Lineal",
+                "contenido": "Repaso de Álgebra lineal, matrices semidefinidas positivas – Autovectores, Autovalores, Programación semidefinida – Descomposición de valores singulares – Aplicaciones a Machine Learning"
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Aplicar el algoritmo gradiente descendente para encontrar el óptimo local de funciones diferenciables",
+              "Entender la teoría de funciones convexas y conjuntos convexos, así como aplicarlos",
+              "Entender los problemas de precisión que ocurren cuando aplicamos iterativamente métodos numéricos para resolver problemas de optimización",
+              "Formular resultados básicos sobre problemas de álgebra lineal y optimización (regresiones, proyecciones, autovalores)",
+              "Comprender las diferencias, tanto prácticas como analíticas, entre diferentes técnicas de descomposición matricial"
+            ],
+            "bibliografia": {
+              "basica": ["TBD"],
+              "complementaria": ["TBD"]
+            }
+          },
+          {
+            "codigo": "C8295",
+            "nombre": "Visión Computacional",
+            "prerequisito": ["C8294"],
+            "tipo": "ELECTIVO",
+            "sumilla": "La asignatura de Visión Computacional es de naturaleza teórico-práctica y corresponde al área de formación de especialidad de Inteligencia Artificial y Ciencia de Datos. Tiene como propósito aplicar principios de comprensión de Procesamiento de Imágenes, técnicas de compresión, transformaciones y aplicaciones de Inteligencia Artificial, así como la realidad virtual como tecnología emergente.",
+            "unidades": [
+              {
+                "titulo": "UNIDAD 1: FUNDAMENTOS DEL PROCESAMIENTO DE IMÁGENES",
+                "contenido": "1. Sistema Visual Humano\n2. Modelos de Color\n3. Transformaciones Geométricas, Espaciales y de Intensidad\n4. Dominios del Espacio y Frecuencia - Aplicaciones\n5. Segmentación de Imágenes\n6. Técnicas de Compresión de Imágenes"
+              },
+              {
+                "titulo": "UNIDAD 2: INTELIGENCIA ARTIFICIAL EN IMÁGENES",
+                "contenido": "1. Redes Neuronales\n2. Autoencoders – VAE y Espacios Latentes\n3. Redes Generativas Adversariales – GAN, WGAN, SRGAN y CycleGAN\n4. Modelos de Difusión"
+              },
+              {
+                "titulo": "UNIDAD 3: PROYECTO FINAL",
+                "contenido": "1. Gestión de un proyecto de Visión Computacional\n2. Arquitecturas de proyectos de Visión Computacional"
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Aplicar técnicas de representación computacional del lenguaje escrito y hablado en múltiples idiomas",
+              "Crear programas de computadora que procesan el lenguaje natural de manera inteligente"
+            ],
+            "bibliografia": {
+              "basica": [
+                "Anantharajan S. (2023) Image Processing and Machine Vision.",
+                "Gonzales R. (2013) Digital Image Processing. Pearson."
+              ],
+              "complementaria": [
+                "Umbaugh S. (2023) Digital Image Processing and Analysis: Computer Vision and Image Analysis"
+              ]
+            }
+          },
+          {
+            "codigo": "C8306",
+            "nombre": "Gestión de Proyectos de Software",
+            "prerequisito": ["Sistemas De Información"],
+            "tipo": "ELECTIVO",
+            "sumilla": "La asignatura de Gestión de Proyectos de Software es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito sintetizar las técnicas de gestión de proyectos de software. Comprende los siguientes contenidos: Gestión de Proyectos de Software, Metodologías Ágiles, Calidad de Software. Culmina con la presentación de un informe o desarrollo de proyecto.",
+            "unidades": [
+              {
+                "titulo": "UNIDAD 1: FUNDAMENTOS DE GESTIÓN DE PROYECTOS DE SOFTWARE",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 2: ETAPAS DE LA GESTIÓN DE PROYECTOS DE SOFTWARE",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 3: GESTIÓN ÁGIL DE PROYECTOS DE SOFTWARE",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 4: TALLER DE CERTIFICACIÓN SCRUM MASTER",
+                "contenido": ""
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Comprender los fundamentos y conceptos de software, proyectos y su gestión",
+              "Conocer y aplicar las etapas de la gestión de proyectos en la implementación de sistemas informáticos",
+              "Comprender y aplicar la gestión ágil de proyectos de software y Scrum",
+              "Obtener la preparación para la certificación oficial de Scrum Master"
+            ],
+            "bibliografia": {
+              "basica": [
+                "Project Management Institute, A Guide to the Project Management Body of Knowledge (PMBOK Guide), 7th ed. Project Management Institute, 2021."
+              ],
+              "complementaria": [
+                "Project Management Institute y Agile Alliance, Agile Practice Guide, Project Management Institute, 2017.",
+                "Sutherland. J; Scrum: El arte de hacer el doble de trabajo en la mitad del tiempo; Primera edición, 2021."
+              ]
+            }
+          },
+          {
+            "codigo": "C9854",
+            "nombre": "Natural Language Processing",
+            "prerequisito": ["C8281"],
+            "tipo": "ELECTIVO", 
+            "sumilla": "La asignatura de Natural Language Processing es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito aplicar técnicas de procesamiento automático de texto. Comprende los siguiente contenidos: Técnicas Clásicas de Representación de Textos, Modelos de Lenguaje, Otras Tareas del Procesamiento de Lenguaje Natural. Culmina con la implementación de un proyecto que haga uso de técnicas de procesamiento automático de texto.",
+            "unidades": [
+              {
+                "titulo": "UNIDAD 1: Técnicas Clásicas de Representación de Textos",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 2: Modelos de Lenguaje",
+                "contenido": ""
+              },
+              {
+                "titulo": "UNIDAD 3: Otras Tareas del Procesamiento de Lenguaje Natural",
+                "contenido": ""
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Aplicar técnicas de representación computacional del lenguaje escrito y hablado en múltiples idiomas",
+              "Crear programas de computadora que procesan el lenguaje natural de manera inteligente"
+            ],
+            "bibliografia": {
+              "basica": [
+                "Jurafsky D. & Martin J. H. (2024); Speech and Language Processing; Draft 3rd Ed.",
+                "Eisenstein, J. (2018). Natural language processing. Jacob Eisenstein."
+              ],
+              "complementaria": [
+                "Goldberg, Y. (2016). A primer on neural network models for natural language processing. Journal of Artificial Intelligence Research, 57, 345-420."
+              ]
+            }
+          },
+          {
+            "codigo": "C9853",
+            "nombre": "Calidad de Software",
+            "prerequisito": "C8287",
+            "sumilla": "La asignatura de Calidad de Software es de naturaleza teórico-práctica y corresponde al área de formación de especialidad. Tiene como propósito aplicar los principios, las prácticas y herramientas esenciales para asegurar la calidad en el desarrollo de software. Comprende los siguientes contenidos: Introducción a la calidad de software, modelos y estándares de calidad (ISTQB), planificación de la calidad, pruebas de software, técnicas de revisión de código e integración continua y despliegue continuo.",
+            "unidades": [
+              "Fundamentos del Aseguramiento de Calidad",
+              "Pruebas Funcionales, No Funcionales y Agile Testing",
+              "Pruebas de Rendimiento y Servicios con Postman",
+              "Automatización de Pruebas Funcionales"
+            ],
+            "resultados_de_aprendizaje": [
+              "Conocer los fundamentos del aseguramiento de la calidad.",
+              "Comprender los métodos de control de calidad de software.",
+              "Conocer las herramientas de automatización de pruebas."
+            ],
+            "bibliografia": {
+              "basica": [
+                "CRISPIN, L. & GREGORY, J.; Agile Testing: A Practical Guide for Testers and Agile Teams. Addison-Wesley Professional 2009"
+              ],
+              "complementaria": [
+                "Kaner, C., Bach, J., & Pettichord, B. (2001). Lessons Learned in Software Testing: A Context-Driven Approach. Wiley.",
+                "Myers, G. J., Sandler, C., & Badgett, T. (2011). The Art of Software Testing (3rd ed.). Wiley.",
+                "Pressman, R. S. (2014). Software Engineering: A Practitioner's Approach (8th ed.). McGraw-Hill Education."
+              ],
+              "enlaces_de_interes": [
+                "https://www.istqb.org/"
+              ]
+            },
+            "tipo_de_asignatura": "ELECTIVO"
+          }
+
+
+    ]
+}

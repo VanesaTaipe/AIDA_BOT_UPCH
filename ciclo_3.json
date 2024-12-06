@@ -1,0 +1,344 @@
+{
+    "cursos": [
+      {
+        "codigo": "C8274",
+        "nombre": "Programación Orientada a Objetos",
+        "prerequisito": "C0667",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Programación Orientada a Objetos es de naturaleza teórico-práctica y corresponde al área de formación de especialidad. Tiene como propósito aplicar principios del paradigma de programación orientada a objetos como encapsulación, herencia y polimorfismo en un lenguaje de programación. Comprende los siguientes contenidos: Introducción a la Programación Orientada a Objetos, Herencia, Polimorfismo y Representación de Datos. Diseña software haciendo uso de conceptos de programación orientada a objetos.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: INTRODUCCIÓN A LA PROGRAMACIÓN ORIENTADA A OBJETOS",
+            "contenido": "1. Historia, metas y ventajas del paradigma orientado a objetos.\n2. Introducción a C#: variables y constantes\n3. Introducción a C#: operadores y estructuras de control\n4. C# como lenguaje de programación orientado a objetos\n5. Clase y Objeto\n6. Atributos\n7. Tipos de clases\n8. Métodos y constructores"
+          },
+          {
+            "titulo": "UNIDAD 2: HERENCIA, POLIMORFISMO Y REPRESENTACIÓN DE DATOS",
+            "contenido": "1. Herencia\n2. Polimorfismo\n3. Encapsulamiento\n4. Abstracción\n5. Interfaces"
+          },
+          {
+            "titulo": "UNIDAD 3: PROYECTO FINAL",
+            "contenido": "1. Captura y gestión de errores\n2. Conexiones a bases de datos"
+          }
+        ],
+        "resultados_aprendizaje": "Al término del curso, los alumnos tendrán la capacidad de demostrar la abstracción de los conocimientos teóricos relacionados a la programación orientada a objetos, así como su implementación para la resolución de problemas que requieran desarrollo de software.",
+        "bibliografia": {
+          "basica": [
+            {
+              "titulo": "Programación orientada a objetos en Java (Informática)",
+              "autor": "Blasco, F.",
+              "ubicacion": "http://bibvirtual.upch.edu.pe:1701/permalink/f/1m9bev3/upch_elibroELB127125"
+            },
+            {
+              "titulo": "Programación orientada a objetos con Java usando BlueJ (6a. edición.. ed.)",
+              "autor": "Barnes, D., & Kölling, M.",
+              "ubicacion": "http://bibvirtual.upch.edu.pe:1701/permalink/f/1ooh76l/upch_elibroELB57170"
+            }
+          ],
+          "complementaria": [
+            {
+              "titulo": "Lógica de programación orientada a objetos (Colección Ingeniería y salud en el trabajo. Informática)",
+              "autor": "Oviedo Regino, E.",
+              "ubicacion": "http://bibvirtual.upch.edu.pe:1701/permalink/f/1m9bev3/upch_elibroELB70431"
+            },
+            {
+              "titulo": "Programación orientada a objetos",
+              "autor": "Moreno Pérez, Juan",
+              "ubicacion": "http://bibvirtual.upch.edu.pe:1701/permalink/f/j23ftu/TN_cdi_proquest_ebookcentral_EBC5759019"
+            },
+            {
+              "titulo": "Fundamentos de la programación orientada a objetos : Una aplicación a las estructuras de datos en Java",
+              "autor": "Ruiz Rodríguez, R.",
+              "ubicacion": "http://bibvirtual.upch.edu.pe:1701/permalink/f/1m9bev3/upch_elibroELB127125"
+            },
+            {
+              "titulo": "Programación orientada a objetos usando java (1a. ed., Ingenierí a y arquitectura. Informática)",
+              "autor": "Flórez Fernández, H., & E -libro, Corp.",
+              "ubicacion": "http://bibvirtual.upch.edu.pe:1701/permalink/f/1m9bev3/upch_elibroELB69236"
+            },
+            {
+              "titulo": "Aprendiendo Java 2 en 21 días",
+              "autor": "Lemay, Laura, & Cadenhead, Rogers",
+              "ubicacion": "http://bibvirtual.upch.edu.pe:1701/permalink/f/1m9bev3/upch_aleph000007817"
+            }
+          ]
+        }
+      },
+      {
+        "codigo": "C8275",
+        "nombre": "Estructuras Discretas",
+        "prerequisito": "NINGUNO",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Estructuras Discretas es de naturaleza teórico-práctica y corresponde al área de formación de especialidad. Tiene como propósito la comprensión de conceptos de matemáticas discretas. Comprende los siguiente contenidos: Técnicas de Demostración, conceptos elementales de la Teoría de Grafos, y principios de Conteo.",
+        "unidades": [
+          {
+            "numero": 1,
+            "nombre": "Demostraciones",
+            "contenido": "Proposiciones - Patrones de Prueba - Inducción - Elementos de Teoría de Números"
+          },
+          {
+            "numero": 2, 
+            "nombre": "Estructuras",
+            "contenido": "Elemento de Teoría de Grafos - Relaciones y Órdenes Parciales"
+          },
+          {
+            "numero": 3,
+            "nombre": "Conteo",
+            "contenido": "Sumas - Recurrencias - Reglas de Cardinalidad - Funciones Generadoras - Conjuntos Infinitos"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Identificar y explicar correctamente estructuras discretas para representar problemas reales",
+          "Reconocer y aplicar el método de demostración más apropiado para determinar la veracidad de una proposición, y organizar argumentos matemáticos correctos",
+          "Diferenciar y examinar las diferentes soluciones matemáticas a un problema complejo en búsqueda de determinar su fiabilidad, ventajas y desventajas"
+        ],
+        "bibliografia": {
+          "basica": [
+            {
+              "autor": "Tom Leighton, and Marten Dijk",
+              "titulo": "6.042J Mathematics for Computer Science",
+              "detalle": "Fall 2010. Massachusetts Institute of Technology: MIT OpenCourseWare",
+              "licencia": "Creative Commons BY-NC-SA"
+            }
+          ],
+          "complementaria": [
+            {
+              "autor": "Kolman, B., Busby, I., & Robert, C.",
+              "titulo": "Estructuras de matemáticas discretas para la computación",
+              "referencia": "No. 001.61 K65Y"
+            }
+          ],
+          "enlaces": [
+            "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf"
+          ]
+        }
+      },
+      {
+            "codigo": "C0513",
+            "nombre": "CIENCIAS SOCIALES",
+            "prerequisito": "Ninguno",
+            "tipo": "OBLIGATORIO",
+            "sumilla": "Asignatura de naturaleza teórico-práctico, del área de Estudios Generales, que tiene como finalidad que los participantes reconozcan los componentes principales de la vida del hombre en la sociedad. Busca familiarizar al estudiante con el uso del lenguaje científico de las ciencias sociales y su aplicación en la comprensión de los procesos sociales relevantes de la sociedad actual y del sector salud en particular. Incluye en su contenido: ciencia, ciencias sociales, procesos socioculturales y desarrollo económico, político y sociocultural.",
+            "unidades": [
+              {
+                "numero": 1,
+                "nombre": "Objeto, métodos y conceptos básicos de las ciencias sociales para analizar la realidad social",
+                "contenido": "Origen histórico de las ciencias sociales. Ramas de las ciencias sociales. Principales corrientes teóricas de análisis social. Niveles de la sociabilidad animal y humana. Individuo, familia, socialización y persona."
+              },
+              {
+                "numero": 2,
+                "nombre": "Cultura, personalidad, salud",
+                "contenido": "Factores determinantes de la personalidad. Violencia familiar y salud mental. Estilos de vida y salud. Factores sociales de la violencia. Procesos culturales."
+              },
+              {
+                "numero": 3,
+                "nombre": "Los procesos económicos y sociales del mundo actual y la perspectiva del desarrollo humano",
+                "contenido": "Proceso histórico y social del Perú. El Virreinato. La independencia. Formación de la República. Migración, urbanización y mestizaje cultural. El racismo. Globalización, pobreza, Estado, conflictos sociales."
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Comprender el objeto, método y origen de las ciencias sociales",
+              "Comprender los conceptos básicos de las ciencias sociales",
+              "Describir los procesos sociales, culturales, económicos y políticos de la sociedad humana",
+              "Describir los orígenes indígenas, coloniales y republicanos de la actual sociedad peruana"
+            ],
+            "bibliografia": {
+              "basica": [
+                {
+                  "autor": "Azcona, J.",
+                  "titulo": "Crisis institucional en el Perú del posconflicto: 1992-2018",
+                  "publicacion": "Revista Iberoamericana de Filosofía, Política, Humanidades y Relaciones Internacionales",
+                  "año": 2020
+                }
+              ]
+            }
+      },
+      {
+            "codigo": "CO741",
+            "nombre": "CÁLCULO VECTORIAL PARA INGENIERÍA",
+            "prerequisito": "CO657-CO747",
+            "tipo": "OBLIGATORIO",
+            "sumilla": "Asignatura de naturaleza teórica práctica, dirigida a todos los estudiantes de la Facultad de Ciencias. Los contenidos conceptuales se desarrollan de una manera estructurada e incluyen los aspectos más relevantes del cálculo avanzado, y los métodos del cálculo vectorial, orientado a comprender y elaborar modelos explicativos de los procesos biológicos y químicos mediante el uso de los conceptos vectoriales.",
+            "unidades": [
+              {
+                "numero": 1,
+                "nombre": "VECTORES",
+                "contenido": "Vectores-Producto punto y producto cruz (vectorial)- Geometría analítica del espacio- Delta Kronecker, Levi Civita- Identidades vectoriales-Triple producto escalar y triple producto vectorial"
+              },
+              {
+                "numero": 2,
+                "nombre": "DERIVACIÓN e INTEGRACIÓN",
+                "contenido": "Derivadas parciales- La regla de la cadena.- Gradiente-Divergencia- Rotacional- Laplaciano-Identidades de las derivadas vectoriales –Ondas Electromagnéticas –Integrales Dobles y Triples- Coordenadas cilíndricas y esféricas"
+              },
+              {
+                "numero": 3,
+                "nombre": "INTEGRALES DE SUPERFICIE Y DE LÍNEA",
+                "contenido": "Integral de Línea de un campo escalar- Integral de Línea de un campo vectorial- Teorema del Trabajo y Energía –Integral de superficie de un campo escalar- Integral de superficie de un campo vectorial – Integrales de flujo"
+              },
+              {
+                "numero": 4,
+                "nombre": "CÁLCULO DE CAMPOS VECTORIALES",
+                "contenido": "El teorema del gradiente-Campos vectoriales conservativos- Conservación de la energía-Teorema de la divergencia-Teorema de Green- Teorema de Stokes- Las ecuaciones de Maxwell- Elementos de análisis tensorial"
+              }
+            ],
+            "resultados_aprendizaje": [
+              "Utilizar conceptos y propiedades de los vectores para describir y analizar problemas propios de la disciplina",
+              "Utilizar conceptos y propiedades de la derivación e integración de funciones de varias variables",
+              "Aplicar los conceptos de integrales de línea y de superficie para el estudio de los campos vectoriales",
+              "Aplicar el cálculo de campos vectoriales para construir y resolver situaciones problemáticas",
+              "Argumentar de manera lógica y ordenada sus resultados, presentándolos en forma geométrica, analítica y verbal"
+            ],
+            "bibliografia": {
+              "basica": [
+                {
+                  "autor": "Zill D.G.",
+                  "titulo": "Matemáticas avanzadas para ingeniería, Vol. 2: cálculo vectorial, análisis de Fourier y análisis complejo",
+                  "edicion": "3a. ed.",
+                  "lugar": "Madrid",
+                  "editorial": "McGraw-Hill España",
+                  "año": 2008
+                }
+              ]
+            }
+      },
+      {
+        "codigo": "C0742",
+        "nombre": "Física para Ingeniería II",
+        "prerequisito": "U0138", 
+        "tipo": "OBLIGATORIO",
+        "sumilla": "En este curso se estudian:\n- La deformación de los cuerpos por efecto de fuerzas externas.\n- Elementos de la mecánica de los líquidos y gases.\n- Los movimientos oscilatorios y ondas mecánicas como una forma de transmisión de energía.\n- El calor y la termodinámica (comportamiento físico molecular de la materia).\n- Los gases reales",
+        "unidades": [
+          {
+            "numero": 1,
+            "nombre": "Elementos de Mecánica de los cuerpos elásticos",
+            "contenido": "Tipos de fuerzas y sus categorías. Fuerzas elásticas: Ley de Hooke; diagramas de deformación; Metales 'con memoria' y 'sin memoria'. Tipos de deformaciones."
+          },
+          {
+            "numero": 2, 
+            "nombre": "Oscilaciones y Ondas mecánicas",
+            "contenido": "Movimiento oscilatorio. Oscilaciones armónicas. Oscilaciones propias. Oscilaciones propias amortiguadas. Auto oscilación. Oscilaciones forzadas. Resonancia. Fuerzas externas inarmónicas. Oscilaciones forzadas en sistemas aperiódicos. Fuerzas externas aperiódicas."
+          },
+          {
+            "numero": 3,
+            "nombre": "Elementos de la mecánica de líquidos y gases",
+            "contenido": "Tensión superficial de los líquidos. Fenómeno de capilaridad. Presión en líquidos y gases sin movimiento. Ecuación de continuidad. Ecuación de Bernoulli y sus aplicaciones. Flujo de líquidos. Viscosidad."
+          },
+          {
+            "numero": 4,
+            "nombre": "Elementos de Física Molecular",
+            "contenido": "Métodos Estadísticos y Termodinámicos. Conceptos y definiciones de la física molecular y la termodinámica. Distribución de las moléculas de gas según su velocidad y energía. Elementos de física cinética. Fundamentos de Termodinámica: Primera Ley de la Termodinámica. Procesos cíclicos. Máquinas térmicas. Entropía. Segunda Ley de la Termodinámica. Tercera ley de la Termodinámica. Propiedades termodinámicas en gases reales."
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Explicar e interpretar la naturaleza de las deformaciones de los cuerpos sólidos",
+          "Identificar las leyes del movimiento oscilatorio y utilizarlas en aplicaciones de ingeniería",
+          "Entender las ondas mecánicas como un medio para transmitir energía para proyectos de ingeniería",
+          "Entender las leyes de los diferentes fluidos y ser capaz de utilizarlos en aplicaciones prácticas",
+          "Entender los fenómenos térmicos y sus posibles aplicaciones en la ingeniería actual"
+        ],
+        "bibliografia": {
+          "basica": [
+            {
+              "titulo": "Física Universitaria",
+              "autores": "Young, Friedman, Sears, Zemansky",
+              "volumen": "2",
+              "edicion": "13"
+            }
+          ],
+          "complementaria": [
+            {
+              "titulo": "Física",
+              "autores": "Resnick, Halliday & Krane",
+              "volumen": "2",
+              "edicion": "10"
+            },
+            {
+              "titulo": "Física para ciencias e ingeniería",
+              "autores": "Raymond A. Serway & John W. Jewett, Jr.",
+              "volumen": "2",
+              "edicion": "10"  
+            }
+          ]
+        }
+       },{
+        "codigo": "C0208",
+        "nombre": "QUÍMICA ORGÁNICA",
+        "prerequisito": "U0018 / QUÍMICA GENERAL II o U0126 / QUÍMICA GENERAL",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Química Orgánica es de naturaleza teórico-práctica y corresponde al área de formación específica. Tiene como propósito que el estudiante reconozca las principales funciones orgánicas y sus características, las propiedades físicas y químicas de las moléculas orgánicas y que entienda la importancia y la acción de las mismas en su quehacer cotidiano, en los seres vivos y sus aplicaciones en las industrias: químicas, farmacéuticas entre otras; así como que adquiera destrezas experimentales en el laboratorio. Comprende los siguientes contenidos: estructura molecular de los compuestos orgánicos (nomenclatura, estructura de grupos funcionales, propiedades físicas, reactividad) y macromoléculas (moléculas biológicas, polímeros sintéticos).",
+        "unidades": [
+          {
+            "numero": 1,
+            "nombre": "FUNDAMENTOS DE LA QUÍMICA ORGÁNICA",  
+            "temas": [
+              "Estructura y enlace",
+              "Ácidos y bases orgánicas, grupos funcionales",
+              "Estructura de los alcanos",
+              "Estereoquímica"
+            ]
+          },
+          {
+            "numero": 2,
+            "nombre": "GRUPOS FUNCIONALES",
+            "temas": [
+              "Estructura y síntesis de los alquenos",
+              "Reacciones de los alquenos", 
+              "Estructura y síntesis de los alcoholes",
+              "Reacciones de los alcoholes",
+              "Introducción a la espectroscopia de compuestos orgánicos",
+              "Cetonas y aldehídos",
+              "Aminas",
+              "Ácidos carboxílicos",
+              "Derivados de ácidos carboxílicos"
+            ]
+          },
+          {
+            "numero": 3,
+            "nombre": "MACROMOLÉCULAS: BIOMOLÉCULAS Y POLÍMEROS",
+            "temas": [
+              "Lípidos",
+              "Carbohidratos", 
+              "Ácidos nucleicos",
+              "Aminoácidos, péptidos y proteínas",
+              "Polímeros sintéticos"
+            ]
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Identificar las características estructurales de una molécula orgánica para predecir tendencias generales de las propiedades físicas",
+          "Identificar ácidos y bases, electrófilos y nucleofilos. Comparar sus fuerzas y predecir sus reacciones",
+          "Clasificar los compuestos orgánicos y reconocerlos mediante sus grupos funcionales y espacialmente",
+          "Identificar las principales reacciones de reconocimiento de las funciones orgánicas",
+          "Determinar las estructuras de los compuestos orgánicos por espectroscopia",
+          "Reconocer las estructuras de los lípidos, carbohidratos, ácidos nucleicos y aminoácidos",
+          "Clasificar las estructuras de los polímeros sintéticos"
+        ],
+        "bibliografia": {
+          "basica": [
+            {
+              "autor": "Wade, L. G.",
+              "titulo": "Química Orgánica",
+              "editorial": "Pearson",
+              "edicion": "9° Edición",
+              "año": 2017
+            }
+          ],
+          "complementaria": [
+            {
+              "autor": "Yurkanis Bruice, Paula",
+              "titulo": "Química Orgánica",
+              "editorial": "Pearson",
+              "edicion": "8° Edición",
+              "año": 2016
+            },
+            {
+              "autor": "Mc Murry, J.",
+              "titulo": "Química Orgánica",
+              "editorial": "Cengage",
+              "edicion": "9° Ed.",
+              "año": 2018
+            }
+          ]
+        }  
+       }  
+    ]
+  }

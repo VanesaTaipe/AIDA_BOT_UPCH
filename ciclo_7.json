@@ -1,0 +1,161 @@
+{
+    "cursos": [
+      {
+        "codigo": "C8286",
+        "nombre": "Computación Paralela y Distribuida",
+        "prerequisito": ["C8279"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Computación Paralela y Distribuida es de naturaleza teórico-práctica y corresponde al área de formación de especialidad. Tiene como propósito implementar algoritmos paralelos y distribuidos. Comprende los siguientes contenidos: Aceleradores de hardware, Herramientas para la gestión del multiprocesamiento, Cloud computing y contenedores. Diseña estrategias de paralelización de un algoritmo de machine learning.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: Fundamentos de Programación Paralela y Computación en la Nube",
+            "contenido": "1. Introducción a la Programación Paralela y Docker\n2. Kubernetes y Computación en la Nube\n3. Microservicios\n4. Paralelismo en Python"
+          },
+          {
+            "titulo": "UNIDAD 2: Paralelismo y Computación Distribuida Avanzada",
+            "contenido": "1. Paralelismo en Ciencias de Datos\n2. Programación Concurrente Avanzada\n3. Computación Distribuida"
+          },
+          {
+            "titulo": "UNIDAD 3: Escalabilidad, Big Data y Seguridad en Sistemas Distribuidos",
+            "contenido": "1. Escalabilidad y Balanceo de Carga\n2. Almacenamiento, Bases de Datos y Análisis Avanzado en Entornos Distribuidos\n3. Seguridad en Sistemas Distribuidos\n4. Tendencias Emergentes en Computación Paralela y Distribuida"
+          },
+          {
+            "titulo": "UNIDAD 4: Proyecto Final",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Comprender los conceptos fundamentales de la Programación Paralela y Concurrente y Distribuida y cómo se aplican estos conceptos para mejorar el rendimiento y la eficiencia en el procesamiento de datos y tareas computacionales",
+          "Implementar el uso del manejo de contenedores y orquestación con Docker y Kubernetes",
+          "Desarrollar habilidades prácticas en la configuración y gestión de contenedores usando Docker, así como en la orquestación de contenedores a través de Kubernetes",
+          "Diseñar, implementar y desplegar arquitecturas de microservicios, así como a utilizar tecnologías de computación distribuida como Apache Spark",
+          "Capacidad para implementar y analizar datos en paralelo y distribuido",
+          "Conocer los principios fundamentales de la seguridad en sistemas distribuidos y las tendencias emergentes en el campo de la computación paralela y distribuida"
+        ],
+        "bibliografia": {
+          "basica": [
+            "The Art of Multiprocessor Programming, The Art of Multiprocessor Programming 2nd Edición de Maurice Herlihy, Nir Shavit, Victor Luchangco, Michael Spear. Morgan Kaufmann; 2nd edición (27 octubre 2020)",
+            "Parallel Python with Dask: Perform distributed computing, concurrent programming and manage large dataset Tim Peters GitforGits 2023"
+          ],
+          "complementaria": [
+            "Parallel and High Performance Computing de Robert Robey, Yuliana Zamora. Manning (22 junio 2021)",
+            "Parallel Programming: for Multicore and Cluster Systems 3rd ed. 2023 Edición de Thomas Rauber, Gúdula Rünger"
+          ]
+        }
+      },
+      {
+        "codigo": "C8285",
+        "nombre": "Human Centered Design",
+        "prerequisito": ["C0359 SISTEMAS DE INFORMACIÓN"],
+        "tipo": "OBLIGATORIO", 
+        "sumilla": "La asignatura de Human Centered Design es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito aplicar técnicas del diseño centradas en el ser humano. Comprende los siguientes contenidos: Diseño de experimentos con personas y escenarios, Diseño sostenible, Comunicación accionable del diseño. Culmina con un proyecto que incluya visualización de información tomando en cuenta los principios del diseño centrado en el humano.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: Introducción a Human Centered Design y etapa Empatizar",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 2: Descubriendo el verdadero problema e ideando una solución (Definir e idear)",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 3: Prototipando con herramientas",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 4: Evaluando nuestra propuesta de solución con usuarios finales",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Aplicar las técnicas y herramientas de diseño centrado en el ser humano",
+          "Identificar y articular problemas complejos y analizar y sintetizar información de usuario para generar insights significativos",
+          "Construir y presentar prototipos funcionales que respondan a las necesidades de los usuarios finales"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Bason. C; Leading public design: Discovering human-centred governance;1;Policy Press;2017"
+          ],
+          "complementaria": [
+            "Melles. M ; Albayrak. A ; Goossens.R; Innovating health care: key characteristics of human-centered design; Vol.33; Oxford University Press; England; 2021"
+          ]
+        }
+      },
+      {
+        "codigo": "C8287",
+        "nombre": "Ingeniería de Software",
+        "prerequisito": ["Sistemas De Información"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Ingeniería de Software es de naturaleza teórica y corresponde al área de formación de especialidad. Tiene como propósito comprender el proceso de desarrollo de software y la gestión de proyectos de software. Comprende los siguientes contenidos: Procesos del Desarrollo de Software, Metodologías de Gestión de Proyectos de Software, Pruebas de calidad de software. Realiza el análisis y diseño de un proyecto de software.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: LA INGENIERÍA, EL SOFTWARE Y MODELO DEL PROCESO",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 2: ANÁLISIS Y MODELADO DE REQUERIMIENTOS",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 3: CONCEPTOS, NIVELES Y TIPOS DE DISEÑO",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 4: MÉTRICAS DEL PRODUCTO Y TENDENCIAS EMERGENTES",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Comprender los fundamentos de la ingeniería, conceptos de software, ingeniería de software y el proceso de la ingeniería de software",
+          "Aplicar el análisis y modelado de los requerimientos del software y criterios de aceptación",
+          "Comprender los conceptos y aplicar el modelado del diseño del software",
+          "Comprender y evaluar las métricas del producto y las tendencias emergentes en la industria del desarrollo de software"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Pressman. R; Ingeniería Del Software: Un Enfoque práctico; Séptima edición, México 2010"
+          ],
+          "complementaria": [
+            "Sommerville. I; Software Engineering, Décima edición, 2017",
+            "Balasubramanian. M; Devops – Manual Para Principiantes; Primera edición, 2022"
+          ]
+        }
+      },
+      {
+        "codigo": "C1335",
+        "nombre": "Desarrollo Profesional 1",
+        "prerequisito": ["120 créditos aprobados"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Desarrollo profesional 1 es de naturaleza teórico-práctica y corresponde al área de formación específica. Tiene como propósito desarrollar competencias de promoción de estudiantes en entidades y empresas del sector de la ingeniería. Comprende los siguientes contenidos: supervisión durante la práctica y calificación de informes en coordinación con el responsable asignado por la empresa, de acuerdo a las actividades realizadas por el practicante.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: Desarrollo Personal y Liderazgo en Ingeniería Informática",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 2: Aplicación de Ingeniería Informática en la Investigación",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 3: Aplicación de Ingeniería Informática en la Industria",
+            "contenido": ""
+          },
+          {
+            "titulo": "UNIDAD 4: Aplicación de Ingeniería Informática en el sector Público",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Reconocer su potencial humano por medio del desarrollo de habilidades humanas para optimizar su desarrollo profesional",
+          "Comprender y Analizar los diferentes sectores y áreas de desarrollo profesional de la carrera de Ingeniería Informática",
+          "Aplicar las competencias adquiridas en la carrera en la vida real"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Temple, Inés, 1967-. (2020). Usted S.A.: empleabilidad y marketing personal. Lima: Planeta"
+          ],
+          "complementaria": []
+        }
+      }
+    ]
+  }

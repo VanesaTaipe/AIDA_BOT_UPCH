@@ -1,0 +1,294 @@
+{
+    "cursos": [
+      {
+        "codigo": "C8284",
+        "nombre": "Criptografía y Seguridad Informática",
+        "prerequisito": "C8279",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Criptografía y Seguridad Informática es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito aplicar conocimientos de seguridad informática a la gestión y comunicación de información. Comprende los siguientes contenidos: Seguridad en sistemas operativos, Comunicación segura en redes, Privacidad y aspectos sociales de la seguridad informática. Crea una aplicación analizando su desempeño potencial en cuanto a seguridad, privacidad y ética.",
+        "unidades": [
+          {
+            "numero": 1,
+            "titulo": "Análisis de riesgos de seguridad informática",
+            "contenido": "Confidencialidad, Integridad y Disponibilidad. Amenazas y vulnerabilidades. Seguridad en Sistemas Operativos. Controles. Sistema de Gestión de seguridad de la información."
+          },
+          {
+            "numero": 2, 
+            "titulo": "Seguridad en redes de comunicaciones",
+            "contenido": "Introducción al modelo OSI. Amenazas y controles a nivel de red. Escaneo de red. Monitoreo de seguridad. SIEM."
+          },
+          {
+            "numero": 3,
+            "titulo": "Gestión de Identidades y Accesos (IAM)",
+            "contenido": "Identificación, Autenticación, Autorización y Auditoría. Factores de autenticación."
+          },
+          {
+            "numero": 4,
+            "titulo": "Criptografía y aplicaciones",
+            "contenido": "Principios de desarrollo seguro."
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Priorizar las necesidades de seguridad de la información basándose en un análisis de riesgos",
+          "Descubrir vulnerabilidades en sistemas operativos y redes de una infraestructura informática usando herramientas y análisis",
+          "Recomendar tipos de controles básicos de seguridad de la información en sistemas operativos y redes de comunicaciones",
+          "Diseñar una arquitectura de gestión de accesos e identidades segura",
+          "Aplicar la criptografía en el desarrollo de aplicaciones",
+          "Crear aplicaciones aplicando principios de desarrollo seguro"
+        ],
+        "bibliografia": {
+          "basica": [
+            {
+              "tipo": "URL",
+              "referencia": "http://standards.iso.org/ittf/PubliclyAvailableStandards/c073906_ISO_IEC_27000_2018_E.zip"
+            },
+            {
+              "tipo": "URL", 
+              "referencia": "https://www.cisecurity.org/controls/v8"
+            },
+            {
+              "tipo": "URL",
+              "referencia": "https://www.nist.gov/cyberframework/framework"
+            },
+            {
+              "tipo": "URL",
+              "referencia": "https://www.leyes.congreso.gob.pe/Documentos/Leyes/29733.pdf"
+            },
+            {
+              "tipo": "URL",
+              "referencia": "https://www.gob.pe/institucion/minjus/normas-legales/1941246-003-2013-jus"
+            }
+          ],
+          "complementaria": [
+            {
+              "autor": "Chapple M",
+              "titulo": "(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide 9th Edition",
+              "editorial": "Sybex",
+              "lugar": "USA",
+              "año": 2021
+            },
+            {
+              "autor": "Aumasson Jean-Philippe",
+              "titulo": "Serious Cryptography: A Practical Introduction to Modern Encryption",
+              "editorial": "No Starch Press",
+              "lugar": "USA",
+              "año": 2017
+            }
+          ]
+        }
+      },
+      {
+        "codigo": "C8282",
+        "nombre": "Base de Datos", 
+        "prerequisito": "C8274",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Base de Datos es de naturaleza teórico-práctica y corresponde al área de formación de especialidad. Tiene como propósito aplicar los principios de modelado de base de datos y creación de administración de bases de datos relacionales y no relacionales. Comprende los siguientes contenidos:Modelo Entidad-Relación y Normalización; el modelo relacional; SQL y el modelo no relacional. Modela, diseña y administra bases de datos haciendo uso de conceptos de modelo entidad-relación, SQL y modelos relacionales y no-relacionales.",
+        "unidades": [
+          {
+            "numero": 1,
+            "titulo": "Modelo Entidad-Relación y Normalización",
+            "contenido": [
+              "Introducción a bases de datos",
+              "Diseño y modelado de base de datos", 
+              "Modelo Entidad-Relación",
+              "Normalización"
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Modelo Relacional",
+            "contenido": [
+              "Bases de datos relacionales",
+              "Metodología de diseño"
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "SQL",
+            "contenido": [
+              "Procedimientos Almacenados y Gestión de Transacciones",
+              "Usuarios, Roles y Privilegios, Gestión de Bases de Datos y Tablas"
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Modelo No Relacional",
+            "contenido": [
+              "Bases de Datos NoSQL",
+              "Operaciones CRUD en NoSQL"
+            ]
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Al término del curso, los alumnos tendrán la capaidad de demostrar la abstracción de los conocimientos teóricos relacionados al modelado de bases de datos, así como su administración para la resolución de problemas que requieran desarrollo de software."
+        ],
+        "bibliografia": {
+          "basica": [
+            {
+              "autor": "Thomas M. Connolly, Carolyn E. Begg",
+              "titulo": "Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition, 6/E",
+              "editorial": "Pearson",
+              "lugar": "Madrid",
+              "anio": 2014
+            },
+            {
+              "autor": "Carlos Coronel, Steven Morris",
+              "titulo": "Database Systems: Design, Implementation, and Management",
+              "edicion": "1st Ed",
+              "editorial": "Cengage",
+              "anio": 2019
+            }
+          ],
+          "complementaria": [
+            {
+              "autor": "Alessandro Negro",
+              "titulo": "Graph-Powered Machine Learning",
+              "editorial": "Manning",
+              "lugar": "UK",
+              "anio": 2021
+            }
+          ]
+        }
+      },
+      {
+        "codigo": "C1330",
+        "nombre": "Proyectos de Ingeniería 1",
+        "prerequisito": "FUNDAMENTOS DE DISEÑO C1324",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Proyectos de Ingeniería 1 es de naturaleza teórico - práctica y pertenece al área de formación específica. Tiene como objetivo generar las competencias necesarias para el desarrollo de prototipos de baja fidelidad a través de propuestas de innovación en el ámbito de diversas ingenierías. Comprende los siguientes contenidos: empatizar, definir e idear, prototipado y prueba.",
+        "unidades": [
+          {
+            "numero": 1,
+            "titulo": "Determinación del problema y justificación del proyecto",
+            "contenido": "Se presentarán los retos a los estudiantes, a los cuales, en equipos deberán generar ideas de proyectos innovadores y sostenibles como forma de solución."
+          },
+          {
+            "numero": 2,
+            "titulo": "Prototipado y estudio técnico",
+            "contenido": "Se generarán prototipos de baja resolución a los cuales se les aplicará un estudio técnico."
+          },
+          {
+            "numero": 3,
+            "titulo": "Viabilidad ambiental, social y financiera",
+            "contenido": "Se evaluará la viabilidad de los proyectos, bajo el paraguas de la sostenibilidad."
+          },
+          {
+            "numero": 4,
+            "titulo": "Presentación de resultados",
+            "contenido": "Los alumnos presentarán sus informes finales y presentarán sus prototipos."
+          }
+        ],
+        "resultados_aprendizaje": {
+          "unidades_didacticas": [
+            {
+              "numero": 1,
+              "titulo": "IDENTIFICA LA NECESIDAD O PROBLEMA",
+              "descripcion": "Identificación y Análisis de Problemas: El estudiante será́ capaz de identificar, formular, buscar información y analizar problemas complejos de ingeniería para llegar a conclusiones fundamentadas usando principios básicos de matemáticas y ciencias de la ingeniería."
+            },
+            {
+              "numero": 2,
+              "titulo": "CREAR CONCEPTOS DE SOLUCIÓN",
+              "descripcion": "Desarrollo de Soluciones: El estudiante podrá diseñar soluciones para problemas complejos de ingeniería y diseñar sistemas, componentes o procesos para satisfacer necesidades deseadas dentro de restricciones realistas en los aspectos de seguridad, cultural, social, económico y ambiental."
+            },
+            {
+              "numero": 3,
+              "titulo": "IMPLEMENTA LA SOLUCIÓN",
+              "descripcion": "Uso de Herramientas Modernas: El estudiante será capaz de crear, seleccionar y utilizar técnicas, habilidades, recursos y herramientas modernas de la ingeniería para implementar la solución de manera eficiente, con una comprensión de las limitaciones y restricciones."
+            },
+            {
+              "numero": 4,
+              "titulo": "COMUNICA LOS RESULTADOS",
+              "descripcion": "Comunicación: El estudiante podrá comunicarse eficazmente, mediante la comprensión y redacción de informes eficaces y documentación de diseño, la realización de exposiciones eficaces, y la transmisión y recepción de instrucciones claras."
+            }
+          ]
+        },
+        "bibliografia": {
+          "basica": [
+            {
+              "autor": "Rodríguez Aranday, F.",
+              "titulo": "Formulación y evaluación de proyectos de inversión: una propuesta metodológica",
+              "editorial": "Instituto Mexicano de Contadores Públicos",
+              "anio": 2018
+            },
+            {
+              "autor": "Garzón Agudelo, D. M. Sarmiento Rojas, J. A. & Gutiérrez-Junco, Ó. J.",
+              "titulo": "Formulación y evaluación de proyectos de ingeniería",
+              "editorial": "Editorial UPTC",
+              "anio": 2019
+            }
+          ],
+          "complementaria": [
+            {
+              "autor": "Méndez Lozano, R.",
+              "titulo": "Formulación y evaluación de proyectos: enfoque para emprendedores",
+              "edicion": "9a. ed.",
+              "editorial": "Ecoe Ediciones",
+              "anio": 2016
+            }
+          ]
+        }
+      },
+      {
+        "codigo": "C8283",
+        "nombre": "Implementación de lenguajes de programación",
+        "prerequisito": "C8279",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Implementación de Lenguajes de Programación es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito aplicar el procesamiento algorítmico de texto a la construcción de programas avanzados. Comprende los siguientes contenidos: Expresiones regulares y autómatas, Análisis sintáctico y semántico, Árbol del programa y traducción. Diseña un compilador o intérprete para un lenguaje de programación simplificado.",
+        "unidades": [
+          {
+            "numero": 1,
+            "titulo": "Aspectos básicos de compilación",
+            "contenido": "Gramáticas y lenguajes, árboles de derivación, ambigüedad, gramáticas reducidas, análisis sintáctica"
+          },
+          {
+            "numero": 2,
+            "titulo": "Análisis Lexicográfico",
+            "contenido": "Funciones y reconocimiento de tokens. Gramáticas regulares. Tratamiento y recuperación de errores lexicográficos. Autómatas finitos y su implantación"
+          },
+          {
+            "numero": 3,
+            "titulo": "Métodos de análisis sintáctico",
+            "contenido": "Descendente y ascendente. Tipos de errores. Recuperación. Método LL(1): gramática LL(1), método de parser descendente, algoritmos para generar la tabla del parser"
+          },
+          {
+            "numero": 4,
+            "titulo": "Tablas de símbolos, Análisis Semántico, Generación de Código",
+            "contenido": ""
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Comprender los principios de lenguajes de programación",
+          "Diseñar, construir el análisis léxico de un compilador",
+          "Diseñar, construir el analizador sintáctico y el análisis semántico de un compilador",
+          "Realizar la generación de código"
+        ],
+        "bibliografia": {
+          "basica": [
+            {
+              "autor": "Douglas Thain",
+              "titulo": "Introduction to Compilers and Language Design",
+              "edicion": "1st edition",
+              "anio": 2019,
+              "licencia": "CC BY-ND 3.0 US"
+            }
+          ],
+          "complementaria": [
+            {
+              "autor": "A. V. Aho, M. S. Lam, R. Sethi and J. D. Ullman",
+              "titulo": "Compilers: Principles, Techniques, and Tools",
+              "edicion": "2nd. ed.",
+              "editorial": "Addison Wesley",
+              "anio": 2006
+            },
+            {
+              "autor": "M. Sipser",
+              "titulo": "Introduction to the Theory of Computation",
+              "edicion": "3rd. ed.",
+              "editorial": "Cengage Learning",
+              "anio": 2012
+            }
+          ]
+        }
+      }
+    ]
+  }

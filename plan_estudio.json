@@ -1,0 +1,447 @@
+{
+    "plan_regular": {
+      "ciclo 1": [
+        {
+          "codigo": "U0006",
+          "nombre": "FILOSOFÍA",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0082",
+          "nombre": "COMUNICACIÓN Y REDACCIÓN I",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0130",
+          "nombre": "CÁLCULO DIFERENCIAL PARA INGENIERÍA",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0129",
+          "nombre": "ÁLGEBRA MATRICIAL Y GEOMETRÍA ANALÍTICA",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0666",
+          "nombre": "QUÍMICA GENERAL",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0148",
+          "nombre": "INTRODUCCIÓN A LA INGENIERÍA INFORMÁTICA",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "NINGUNO"
+        }
+      ],
+      "ciclo 2": [
+        {
+          "codigo": "U0083",
+          "nombre": "COMUNICACIÓN Y REDACCIÓN II",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "COMUNICACION Y REDACCION I"
+        },
+        {
+          "codigo": "U0137",
+          "nombre": "CÁLCULO INTEGRAL PARA INGENIERÍA",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "CALCULO DIFERENCIAL PARA INGENIERIA"
+        },
+        {
+          "codigo": "U0138",
+          "nombre": "FÍSICA PARA INGENIERÍA 1",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0147",
+          "nombre": "BIOLOGÍA PARA INGENIERÍA",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0150",
+          "nombre": "PROCESOS DE INNOVACIÓN EN INGENIERÍA",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "U0149",
+          "nombre": "FUNDAMENTOS DE PROGRAMACIÓN",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "NINGUNO"
+        }
+      ],
+      "ciclo 3": [
+        {
+          "codigo": "C0741",
+          "nombre": "CÁLCULO VECTORIAL PARA INGENIERÍA",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "CALCULO DIFERENCIAL PARA INGENIERIA Y ALGEBRA MATRICIAL Y GEOMETRIA ANALITICA"
+        },
+        {
+          "codigo": "C0742",
+          "nombre": "FÍSICA PARA INGENIERÍA 2",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "FISICA PARA INGENIERIA 1"
+        },
+        {
+          "codigo": "C8987",
+          "nombre": "QUÍMICA COMPUTACIONAL Y SIMULACIONES",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "QUIMICA GENERAL"
+        },
+        {
+          "codigo": "C0513",
+          "nombre": "CIENCIAS SOCIALES",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "COMUNICACION Y REDACCION II"
+        },
+        {
+          "codigo": "C8274",
+          "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "SEMIPRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "FUNDAMENTOS DE PROGRAMACION"
+        },
+        {
+          "codigo": "C8275",
+          "nombre": "ESTRUCTURAS DISCRETAS",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "NINGUNO"
+        }
+      ],
+      "ciclo 4": [
+        {
+          "codigo": "C0743",
+          "nombre": "ECUACIONES DIFERENCIALES",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "CALCULO VECTORIAL PARA INGENIERIA"
+        },
+        {
+          "codigo": "C1127",
+          "nombre": "PROGRAMACIÓN AVANZADA",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "NO PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "FUNDAMENTOS DE PROGRAMACION"
+        },
+        {
+          "codigo": "C0745",
+          "nombre": "FÍSICA PARA INGENIERÍA 3",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "FISICA PARA INGENIERIA 2"
+        },
+        {
+          "codigo": "C0503",
+          "nombre": "ESTADÍSTICA Y PROBABILIDADES",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "CALCULO INTEGRAL PARA INGENIERIA"
+        },
+        {
+          "codigo": "C8276",
+          "nombre": "ORGANIZACIÓN Y ARQUITECTURA DE COMPUTADORES",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "SEMIPRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "PROGRAMACION ORIENTADA A OBJETOS"
+        },
+        {
+          "codigo": "C8277",
+          "nombre": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "NO PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "ESTRUCTURAS DISCRETAS"
+        }
+      ],
+      "ciclo 5": [
+        {
+          "codigo": "C1324",
+          "nombre": "FUNDAMENTOS DE DISEÑO",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "PROCESOS DE INNOVACION EN INGENIERIA"
+        },
+        {
+          "codigo": "G0037",
+          "nombre": "INGLÉS 1",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "NINGUNO"
+        },
+        {
+          "codigo": "C8278",
+          "nombre": "ANÁLISIS Y DISEÑO DE ALGORITMOS",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "ALGORITMOS Y ESTRUCTURA DE DATOS"
+        },
+        {
+          "codigo": "C8279",
+          "nombre": "SISTEMAS OPERATIVOS",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "SEMIPRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "ORGANIZACIÓN Y ARQUITECTURA DE COMPUTADORES"
+        },
+        {
+          "codigo": "C8280",
+          "nombre": "COMUNICACIÓN DE DATOS Y REDES",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "ORGANIZACIÓN Y ARQUITECTURA DE COMPUTADORES"
+        },
+        {
+          "codigo": "C8281",
+          "nombre": "INTRODUCCIÓN A MACHINE LEARNING",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "NO PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "ESTADÍSTICA Y PROBABILIDADES"
+        }
+      ],
+      "ciclo 6": [
+        {
+          "codigo": "C1330",
+          "nombre": "PROYECTOS DE INGENIERÍA 1",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "SEMIPRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "FUNDAMENTOS DE DISEÑO"
+        },
+        {
+          "codigo": "C8282",
+          "nombre": "BASES DE DATOS",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "SEMIPRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "ALGORITMOS Y ESTRUCTURA DE DATOS"
+        },
+        {
+          "codigo": "C8283",
+          "nombre": "IMPLEMENTACIÓN DE LENGUAJES DE PROGRAMACIÓN",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "SEMIPRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "SISTEMAS OPERATIVOS"
+        },
+        {
+          "codigo": "C8284",
+          "nombre": "CRIPTOGRAFÍA Y SEGURIDAD INFORMÁTICA",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "SISTEMAS OPERATIVOS"
+        },
+        {
+          "codigo": "C0359",
+          "nombre": "SISTEMAS DE INFORMACIÓN",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 3,
+          "prerequisito": "COMUNICACIÓN DE DATOS Y REDES"
+        }
+      ],
+      "ciclo 7": [
+        {
+          "codigo": "C1335",
+          "nombre": "DESARROLLO PROFESIONAL 1",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "NO PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "120 CRÉDITOS APROBADOS"
+        },
+        {
+          "codigo": "G0038",
+          "nombre": "INGLÉS 2",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "INGLES 1"
+        },
+        {
+          "codigo": "C8285",
+          "nombre": "HUMAN-CENTERED DESIGN",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "SISTEMAS DE INFORMACIÓN"
+        },
+        {
+          "codigo": "C8286",
+          "nombre": "COMPUTACIÓN PARALELA Y DISTRIBUIDA",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "SISTEMAS OPERATIVOS"
+        },
+        {
+          "codigo": "C8287",
+          "nombre": "INGENIERÍA DE SOFTWARE",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "SISTEMAS DE INFORMACIÓN"
+        }
+      ],
+      "ciclo 8": [
+        {
+          "codigo": "C1343",
+          "nombre": "PROYECTOS DE INGENIERÍA 2",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "SEMIPRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "PROYECTOS DE INGENIERIA 1"
+        },
+        {
+          "codigo": "C1342",
+          "nombre": "DESARROLLO PROFESIONAL 2",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "NO PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "DESARROLLO PROFESIONAL 1"
+        },
+        {
+          "codigo": "G0039",
+          "nombre": "INGLÉS 3",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "INGLES 2"
+        },
+        {
+          "codigo": "C8288",
+          "nombre": "DESARROLLO DE SISTEMAS WEB",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "INGENIERIA DE SOFTWARE"
+        },
+        {
+          "codigo": "C8289",
+          "nombre": "VISUALIZACIÓN",
+          "tipo_estudios": "DE ESPECIALIDAD",
+          "modalidad": "PRESENCIAL",
+          "creditos": 4,
+          "prerequisito": "HUMAN-CENTERED DESIGN"
+        }
+      ],
+      "ciclo 9": [
+        {
+          "codigo": "C8290",
+          "nombre": "DISEÑO DE NEGOCIOS EN INGENIERÍA",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "NO PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "PROYECTOS DE INGENIERIA II"
+        },
+        {
+          "codigo": "C0772",
+          "nombre": "ÉTICA",
+          "tipo_estudios": "GENERAL",
+          "modalidad": "NO PRESENCIAL",
+          "creditos": 2,
+          "prerequisito": "FILOSOFÍA /150 CRÉDITOS APROBADOS"
+        },
+        {
+          "codigo": "C8269",
+          "nombre": "TESIS 1",
+          "tipo_estudios": "ESPECÍFICO",
+          "modalidad": "PRESENCIAL",
+          "creditos": 5,
+          "prerequisito": "150 CRÉDITOS APROBADOS"},
+          {
+            "codigo": "G0040",
+            "nombre": "INGLÉS 4",
+            "tipo_estudios": "GENERAL",
+            "modalidad": "PRESENCIAL",
+            "creditos": 2,
+            "prerequisito": "INGLES 3"
+          },
+          {
+            "codigo": "C8291",
+            "nombre": "DESARROLLO DE SISTEMAS MÓVILES",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "creditos": 4,
+            "prerequisito": "INGENIERIA DE SOFTWARE"
+          }
+        ],
+        "ciclo 10": [
+          {
+            "codigo": "C8272",
+            "nombre": "NORMAS Y REGULACIONES EN INGENIERÍA",
+            "tipo_estudios": "ESPECÍFICO",
+            "modalidad": "NO PRESENCIAL",
+            "creditos": 2,
+            "prerequisito": "DISEÑO DE NEGOCIOS EN INGENIERIA"
+          },
+          {
+            "codigo": "C8292",
+            "nombre": "TEMAS AVANZADOS DE SEGURIDAD INFORMÁTICA",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "creditos": 4,
+            "prerequisito": "CRIPTOGRAFIA Y SEGURIDAD INFORMATICA"
+          },
+          {
+            "codigo": "C8293",
+            "nombre": "DERECHO INFORMÁTICO",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "NO PRESENCIAL",
+            "creditos": 2,
+            "prerequisito": "ETICA Y 150 CREDITOS APROBADOS"
+          }
+        ]
+      }
+    }

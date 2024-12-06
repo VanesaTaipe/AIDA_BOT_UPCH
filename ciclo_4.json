@@ -1,0 +1,235 @@
+{
+    "cursos": [
+      {
+        "codigo": "C0745",
+        "nombre": "FÍSICA PARA INGENIERÍA 3",
+        "prerequisito": ["C0742"],
+        "tipo": "OBLIGATORIO", 
+        "sumilla": "Asignatura de naturaleza teórico-práctica que tiene como objetivo capacitar el alumno a los fundamentos de la física electromagnética y óptica para uso en ingeniería. Comprende: Fundamentos de campos electrostáticos, corrientes eléctricas estacionarias, magnetostática, ley de Faraday, las ondas electromagnéticas y la luz, vector de Poynting, energía y momento de una onda electromagnética. radiación: el espectro electromagnético y la luz, naturaleza de propagación de la luz, principio de Huygens, la ley de Snell y la ley de reflexión, rayos de luz, el principio de Fermat, reflexión total interna, óptica geométrica – teoría paraxial, imagen perfecta de un punto luminoso, refracción y reflexión en superficies planas. Refracción y reflexión en superficies esféricas. Ecuación general de las lentes, ecuación general de lentes delgadas. Puntos y planos focales. Formación de imágenes finitas. Combinación de lentes delgadas. Espejos esféricos. Polarización lineal, luz natural, polarizadores, ley de Malus. Polarización por reflexión. Polarización circular y elíptica. Interferencia y difracción. Coherencia. Experimento de Young: interferencia de dos rendijas. Interferencia de múltiples rendijas. Difracción. Difracción de Fraunhoffer (difracción en una rendija simple).",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1",
+            "contenido": "Ecuaciones diferenciales de primer orden y de orden superior"
+          },
+          {
+            "titulo": "UNIDAD 2",
+            "contenido": "Transformada de Laplace"
+          },
+          {
+            "titulo": "UNIDAD 3", 
+            "contenido": "Soluciones numéricas de ecuaciones diferenciales"
+          },
+          {
+            "titulo": "UNIDAD 4",
+            "contenido": "Series de Fourier – Transformadas de Fourier"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Reconoce las unidades físicas y numéricas de campos electrostáticos",
+          "Identifica los principios de carga electrostáticas",
+          "Explica los procesos de carga de condensadores"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Física Universitaria con Física Moderna 1 14ª ed Sears y Zemansky 2018"
+          ],
+          "complementaria": [
+            "Física para las ciencias de la vida, Ortuño Ortin 2019",
+            "Física para ciencias e ingeniería 10ª Edición Raymond A. Serway, John W. Jewett, 2018"
+          ]
+        }
+      },
+      {
+        "codigo": "C0503",
+        "nombre": "ESTADÍSTICA Y PROBABILIDADES",
+        "prerequisito": ["C0657"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Estadística y Probabilidades forma parte del área de formación de estudios generales de la Facultad de Ciencias y Filosofía, es de carácter teórico práctico y se orienta a brindar conocimientos al estudiante para conocer las diferentes técnicas para el análisis estadístico de datos en las áreas de la Biología, Química, Nutrición y Farmacia. Su contenido está organizado en 4 unidades: Unidad I: Estadística Descriptiva; Unidad II: Probabilidades de ocurrencia de un evento y propiedades respectivas; Unidad III: Variable aleatoria, función de distribución y probabilidad; medidas de una variable aleatoria y propiedades importantes; Distribuciones de probabilidad de una o más variables aleatorias; y algunas distribuciones de probabilidad según tipo de variable. Unidad IV: Inferencia Estadística que permite construir intervalos de confianza para un determinado parámetro; pruebas de hipótesis que permita la comparación de dos o más medias aritméticas, establecer la relación entre dos variables cualitativas y entre dos variables cuantitativas. Aplicaciones con el programa RSstudio Las prácticas dirigidas se desarrollarán con la ayuda de programa RStudio.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1: ESTADÍSTICA DESCRIPTIVA",
+            "contenido": "1) Estadística e investigación científica. Términos estadísticos. Variables. Escalas de medición.\n2) Clasificación y presentación de datos: tablas y gráficos.\n3) Medidas de resumen para variables numéricas: Medidas de tendencia central y de dispersión. Percentiles. Medidas de resumen para variables categóricas: tasa, razón, proporción.\n4) Análisis exploratorio de datos"
+          },
+          {
+            "titulo": "UNIDAD 2: CALCULO DE LA PROBABILIDAD DE LA OCURRENCIA DE UN EVENTO",
+            "contenido": "5) Cálculo de probabilidades: Experimento aleatorio, espacio muestral, evento y campo sigma. Probabilidad de ocurrencia de un evento, probabilidad de suma y multiplicación de eventos.\n6) Probabilidad condicional de la ocurrencia de un evento dado otro. Independencia de eventos.\n7) Aplicaciones de las probabilidades condicionales: Teorema de Bayes, evaluación de pruebas de diagnóstico."
+          },
+          {
+            "titulo": "UNIDAD 3: FUNCION DE DISTRIBUCIÓN Y FUNCIÓN DE PROBABILIDAD DE UNA VARIABLE ALEATORIA",
+            "contenido": "8) Variable aleatoria y tipos. Función de distribución y probabilidad de variable discreta. Función de distribución y probabilidad de variable continúa. Medidas de centralización y dispersión de una variable aleatoria.\n9) Funciones de distribución y de probabilidad de dos o más variables aleatorias. Cálculo del vector de medias y matriz de covarianzas.\n10) Distribuciones de probabilidad de variable discreta: Bernoulli, Binomial, Hipergeométrica y Poisson.\n11) Distribución de probabilidad de variable continua: Exponencial y Normal. Distribución normal multivariante."
+          },
+          {
+            "titulo": "UNIDAD 4: INFERENCIA ESTADÍSTICA",
+            "contenido": "12) Inferencia estadística: estimación de parámetros y prueba de hipótesis para comparar dos medias aritméticas.\n13) La distribución Ji cuadrado y aplicaciones.\n14) Aplicación de la técnica de análisis de varianza de un factor. Análisis de correlación y regresión lineal simple."
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Identificar, aplicar e interpretar los resultados de las diferentes medidas de tendencia central y dispersión según el tipo y escala de medición de variable.",
+          "Identificar, aplicar e interpretar la probabilidad de ocurrencia de un evento simple, compuesto o condicional o las funciones de distribución y distribuciones de probabilidad de una o más variables aleatorias, para representar la evolución de un fenómeno bajo estudio en el área de las ciencias básicas vinculadas a la vida.",
+          "Identificar, aplicar e interpretar la Inferencia Estadística que permita tomar decisiones y elaborar conclusiones probabilísticas en el área de las ciencias básicas vinculadas a la vida."
+        ],
+        "bibliografia": {
+          "basica": [
+            "Obando López, J. y Arango Londoño, N. (2019). Probabilidad y estadística. Fondo Editorial EIA. https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/125705"
+          ],
+          "complementaria": [
+            "Islas Salomón, C. A. Colín Uribe, M. P. y Morales Téllez, F. (2018). Probabilidad y estadística. Grupo Editorial Éxodo. https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/128557",
+            "Llinás Solano, H. (2018). Introducción a la teoría de probabilidad. Universidad del Norte. https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/70067",
+            "Llinás Solano, H. (2017). Estadística descriptiva y distribuciones de probabilidad. Universidad del Norte. https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/70059"
+          ]
+        }
+      },
+      {
+        "codigo": "C0743",
+        "nombre": "ECUACIONES DIFERENCIALES",
+        "prerequisito": ["C0741/CALCULO VECTORIAL PARA INGENIERIA"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Asignatura de naturaleza teórica que tiene como objetivo capacitar el alumno al manejo de las ecuaciones diferenciales para uso en ingeniería. Comprende: Álgebra Lineal. Ecuaciones Diferenciales Ordinarias. Transformadas de Laplace. Análisis de Variable Compleja. Series de Fourier. Ecuaciones en Derivadas Parciales. Métodos Numéricos en Ecuaciones Diferenciales. Transformada de Fourier.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1",
+            "contenido": "Ecuaciones diferenciales de primer orden y de orden superior"
+          },
+          {
+            "titulo": "UNIDAD 2",
+            "contenido": "Transformada de Laplace"
+          },
+          {
+            "titulo": "UNIDAD 3",
+            "contenido": "Soluciones numéricas de ecuaciones diferenciales"
+          },
+          {
+            "titulo": "UNIDAD 4",
+            "contenido": "Series de Fourier – Transformadas de Fourier"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Resolver ecuaciones diferenciales de primer orden o superior con valor inicial y condiciones de frontera",
+          "Evaluar y aplicar métodos apropiados para la resolución de las ecuaciones diferenciales que surgen en problemas típicos de ingeniería",
+          "Resolver un sistema lineal de ecuaciones diferenciales y convertir una ecuación lineal de orden superior a un sistema lineal de ecuaciones diferenciales",
+          "Aplicar la transformada de Laplace para resolver sistemas de ecuaciones diferenciales lineales con valores iniciales",
+          "Argumentar y justificar el uso de modelos de ecuaciones diferenciales en la resolución de casos de estudio, obtener información cuantitativa con dichos modelos, y analizar los resultados"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Demaine E, Ku J and Solomon J; 6.006. Introduction to Algorithms. Spring 2020. Massachusetts Institute of Technology: MIT OpenCourseWare"
+          ],
+          "complementaria": [
+            "Cormen TH, Leiserson CE, Rivest RL, Stein C, Introduction to Algorithms 4rd Ed; MIT Press, USA, 2022"
+          ]
+        }
+      },
+      {
+        "codigo": "C8276",
+        "nombre": "ORGANIZACIÓN Y ARQUITECTURA DE COMPUTADORAS",
+        "prerequisito": ["40 CRÉDITOS APROBADOS"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Organización y Arquitectura de Computadoras es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito comprender aspectos de hardware de los computadores y emplearlo en el desarrollo de programas. Comprende los siguientes contenidos: Lógica Digital, Hardware físico e instrucciones, Jerarquía de memoria, Periféricos y comunicación. Implementa proyectos de Internet de las Cosas en una plataforma de hardware real o simulada.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1",
+            "contenido": "Introducción. Representación de datos, Compuertas lógicas, Algebra de Boole, Diseño de circuitos combinacionales, Diseño de circuitos secuenciales"
+          },
+          {
+            "titulo": "UNIDAD 2",
+            "contenido": "Arquitectura de un computador, Conjuntos de instrucciones de un computador, Memoria, Software del sistema, Sistemas embebidos"
+          },
+          {
+            "titulo": "UNIDAD 3",
+            "contenido": "Módulos de comunicación, Redes de computadoras, Internet de las cosas, Aplicaciones de internet de las cosas con Arduino"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Diseñar circuitos lógicos digitales haciendo uso del algebra de Boole, el mapa de Karnaugh, y máquinas de estado",
+          "Entender la arquitectura del hardware de un computador entendiendo la organización del CPU y sus memorias, así como el conjunto de instrucciones y el software del sistema",
+          "Implementar proyectos de Internet de las cosas haciendo uso de los módulos de comunicación de un microcontrolador y las redes de computadoras"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Null. L, Lobour. J. The Essentials of Computer Organization and Architecture. Quinta Edición. Jones & Bartlett Learning. USA, 2018"
+          ],
+          "complementaria": [
+            "Kuzmiakova, Adele (Ed). (2022). Key concepts in computer science",
+            "Groote, Jan Friso & Morel, Rolf & Schmaltz, Julien & Watkins, Adam (2021). Logical gates, circuits, processors, compilers and computers",
+            "Panwar, Suraj Singh (2020). Introduction to computer information systems"
+          ]
+        }
+      },
+      {
+        "codigo": "C0743",
+        "nombre": "ECUACIONES DIFERENCIALES",
+        "prerequisito": ["C0741/CALCULO VECTORIAL PARA INGENIERIA"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Asignatura de naturaleza teórica que tiene como objetivo capacitar el alumno al manejo de las ecuaciones diferenciales para uso en ingeniería. Comprende: Álgebra Lineal. Ecuaciones Diferenciales Ordinarias. Transformadas de Laplace. Análisis de Variable Compleja. Series de Fourier. Ecuaciones en Derivadas Parciales. Métodos Numéricos en Ecuaciones Diferenciales. Transformada de Fourier.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1",
+            "contenido": "Ecuaciones diferenciales de primer orden y de orden superior"
+          },
+          {
+            "titulo": "UNIDAD 2",
+            "contenido": "Transformada de Laplace"
+          },
+          {
+            "titulo": "UNIDAD 3",
+            "contenido": "Soluciones numéricas de ecuaciones diferenciales"
+          },
+          {
+            "titulo": "UNIDAD 4",
+            "contenido": "Series de Fourier – Transformadas de Fourier"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Resolver ecuaciones diferenciales de primer orden o superior con valor inicial y condiciones de frontera",
+          "Evaluar y aplicar métodos apropiados para la resolución de las ecuaciones diferenciales que surgen en problemas típicos de ingeniería",
+          "Resolver un sistema lineal de ecuaciones diferenciales y convertir una ecuación lineal de orden superior a un sistema lineal de ecuaciones diferenciales",
+          "Aplicar la transformada de Laplace para resolver sistemas de ecuaciones diferenciales lineales con valores iniciales",
+          "Argumentar y justificar el uso de modelos de ecuaciones diferenciales en la resolución de casos de estudio, obtener información cuantitativa con dichos modelos, y analizar los resultados"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Demaine E, Ku J and Solomon J; 6.006. Introduction to Algorithms. Spring 2020. Massachusetts Institute of Technology: MIT OpenCourseWare"
+          ],
+          "complementaria": [
+            "Cormen TH, Leiserson CE, Rivest RL, Stein C, Introduction to Algorithms 4rd Ed; MIT Press, USA, 2022"
+          ]
+        }
+      },
+      {
+        "codigo": "C8276",
+        "nombre": "ORGANIZACIÓN Y ARQUITECTURA DE COMPUTADORAS",
+        "prerequisito": ["40 CRÉDITOS APROBADOS"],
+        "tipo": "OBLIGATORIO",
+        "sumilla": "La asignatura de Organización y Arquitectura de Computadoras es de naturaleza teórico práctica y corresponde al área de formación de especialidad. Tiene como propósito comprender aspectos de hardware de los computadores y emplearlo en el desarrollo de programas. Comprende los siguientes contenidos: Lógica Digital, Hardware físico e instrucciones, Jerarquía de memoria, Periféricos y comunicación. Implementa proyectos de Internet de las Cosas en una plataforma de hardware real o simulada.",
+        "unidades": [
+          {
+            "titulo": "UNIDAD 1",
+            "contenido": "Introducción. Representación de datos, Compuertas lógicas, Algebra de Boole, Diseño de circuitos combinacionales, Diseño de circuitos secuenciales"
+          },
+          {
+            "titulo": "UNIDAD 2",
+            "contenido": "Arquitectura de un computador, Conjuntos de instrucciones de un computador, Memoria, Software del sistema, Sistemas embebidos"
+          },
+          {
+            "titulo": "UNIDAD 3",
+            "contenido": "Módulos de comunicación, Redes de computadoras, Internet de las cosas, Aplicaciones de internet de las cosas con Arduino"
+          }
+        ],
+        "resultados_aprendizaje": [
+          "Diseñar circuitos lógicos digitales haciendo uso del algebra de Boole, el mapa de Karnaugh, y máquinas de estado",
+          "Entender la arquitectura del hardware de un computador entendiendo la organización del CPU y sus memorias, así como el conjunto de instrucciones y el software del sistema",
+          "Implementar proyectos de Internet de las cosas haciendo uso de los módulos de comunicación de un microcontrolador y las redes de computadoras"
+        ],
+        "bibliografia": {
+          "basica": [
+            "Null. L, Lobour. J. The Essentials of Computer Organization and Architecture. Quinta Edición. Jones & Bartlett Learning. USA, 2018"
+          ],
+          "complementaria": [
+            "Kuzmiakova, Adele (Ed). (2022). Key concepts in computer science",
+            "Groote, Jan Friso & Morel, Rolf & Schmaltz, Julien & Watkins, Adam (2021). Logical gates, circuits, processors, compilers and computers",
+            "Panwar, Suraj Singh (2020). Introduction to computer information systems"
+          ]
+        }
+      }
+    ]
+  }

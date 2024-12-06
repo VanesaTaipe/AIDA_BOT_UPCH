@@ -1,0 +1,186 @@
+{
+    "cursos_electivos": [
+        {
+            "codigo": "C8294",
+            "nombre": "METODOS NUMERICOS Y OPTIMIZACION PARA MACHINE LEARNING",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL", 
+            "prerequisito": "INTRODUCCIÓN A MACHINE LEARNING",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8295",
+            "nombre": "VISION COMPUTACIONAL",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "METODOS NUMERICOS Y OPTIMIZACION PARA MACHINE LEARNING",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C9854", 
+            "nombre": "NATURAL LANGUAGE PROCESSING",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "METODOS NUMERICOS Y OPTIMIZACION PARA MACHINE LEARNING",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8297",
+            "nombre": "APRENDIZAJE POR REFUERZO", 
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "METODOS NUMERICOS Y OPTIMIZACION PARA MACHINE LEARNING",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8298",
+            "nombre": "RECUPERACIÓN DE INFORMACIÓN", 
+            "tipo_estudios":"DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "METODOS NUMERICOS Y OPTIMIZACION PARA MACHINE LEARNING",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8299",
+            "nombre": "BIOQUIMICA",
+            "tipo_estudios": "DE ESPECIALIDAD", 
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "QUÍMICA COMPUTACIONAL Y SIMULALCIONES",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C1128",
+            "nombre": "MOLECULAR BIOLOGY FOR ENGINEERS",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "BIOQUIMICA",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8299",
+            "nombre": "BIOINFORMATICA",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "MOLECULAR BIOLOGY FOR ENGINEERS",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8304",
+            "nombre": "ARQUITECTURA DE SOFTWARE",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "INGENIERÍA DE SOFTWARE",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C985",
+            "nombre": "CALIDAD DE SOFTWARE",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "INGENIERÍA DE SOFTWARE",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8306",
+            "nombre": "GESTION DE PROYECTOS DE SOFTWARE",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "INGENIERÍA DE SOFTWARE",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8307",
+            "nombre": "TOPICOS AVANZADOS EN MACHINE LEARNING",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "METODOS NUMERICOS Y OPTIMIZACION PARA MACHINE LEARNING",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C0359",
+            "nombre": "TOPICOS AVANZADOS EN SISTEMAS DE INFORMACIÓN",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        },
+        {
+            "codigo": "C8632",
+            "nombre": "TOPICOS AVANZADOS EN INFORMATICA BIOMEDICA",
+            "tipo_estudios": "DE ESPECIALIDAD",
+            "modalidad": "PRESENCIAL",
+            "prerequisito": "INGENIERÍA DE SOFTWARE",
+            "creditos": 3,
+            "horas": {
+                "teoria": {"presencial": 32, "virtual": 0, "total": 32},
+                "practica": {"presencial": 32, "virtual": 0, "total": 32},
+                "total": 64
+            }
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+
+{
+  "cursos": [
+    {
+      "codigo": "U0138",
+      "nombre": "FÍSICA PARA INGENIERÍA 1",
+      "prerequisito": ["U0129",
+        "U0130"
+      ],
+      "tipo": "OBLIGATORIO",
+      "sumilla": "Es una asignatura teórica – práctica que corresponde al Área de Estudios Generales. Comprende Mecánica de la partícula (estudio desde el punto de vista de la cinemática y de la dinámica) y de los sistemas de partículas. Métodos basados en los conceptos de trabajo y energía como una alternativa a las leyes de Newton para la descripción y estudio del movimiento. Mecánica de los sistemas de partículas: el uso de los principios de conservación de momento lineal, de energía y de momento angular para el estudio de la interacción de dos o más partículas, considerando inclusive el caso en que las partículas no cambian su posición relativa entre ellas (sólido rígido). Gravitación universal.",
+      "unidades": [
+        {
+          "titulo": "",
+          "contenido": "UNIDAD 1: Movimiento en una dimensión – dos dimensiones\n✔ Desplazamiento, velocidad y aceleración\n✔ Movimiento relativo"
+        },
+        {
+          "titulo": "",
+          "contenido": "UNIDAD 2: Dinámica de una partícula – Energía\n✔ Leyes de Newton\n✔ Fuerzas de fricción\n✔ Trabajo – Energía cinética\n✔ Energía potencial\n✔ Conservación de la energía de una partícula\n✔ Trabajo realizado por una fuerza variable"
+        },
+        {
+          "titulo": "",
+          "contenido": "UNIDAD 3: Cantidad de movimiento lineal – Cantidad de movimiento angular\n✔ Cantidad de movimiento lineal\n✔ Colisiones\n✔ Centro de masa\n✔ Cantidades angulares y traslacionales\n✔ Energía cinética rotacional\n✔ Consideraciones energéticas en el movimiento rotacional\n✔ Movimiento de rodamiento de un objeto rígido\n✔ Cálculo de momento de inercia – Teorema de los ejes paralelos (Teorema de Steiner)\n✔ Cantidad de movimiento angular"
+        },
+        {
+          "titulo": "",
+          "contenido": "UNIDAD 4: Equilibrio estático y elasticidad – Gravitación universal\n✔ Objeto rígido en equilibrio\n✔ Propiedades elásticas de los sólidos\n✔ Ley de Newton de gravitación\n✔ Leyes de Kepler"
+        }
+      ],
+      "resultados_aprendizaje": [
+        "Conceptualizar - Pensar en y entender la situación, mediante el estudio cuidadoso de cualquier representación de la información.",
+        "Categorizar - Simplificar el problema (¿es para sustitución directa?).",
+        "Analizar - Identificar un modelo (escoger las ecuaciones ajustables a la situación del problema).",
+        "Finalizar - Examinar la respuesta (¿es dimensionalmente correcta?, ¿es comparable con otros ejercicios?)."
+      ],
+      "bibliografia": {
+        "basica": [
+          "Serway, R. A., & Jewett Jr., J. W. (10ma Edición). Física para ciencias en ingeniería. Vol. 1. Disponible en: https://bibvirtual.upch.edu.pe:2955/?il=6900&pg=4"
+        ],
+        "complementaria": [
+          "Marcos Iparraguirre, L. Física 1: para ciencias químicas. Disponible en: https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/78812",
+          "Sánchez Pérez, Á. M. Introducción a la física para ingenierías. Disponible en: https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/133325",
+          "Pérez Montiel, H. Física general. Disponible en: https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/40438",
+          "Sternheim, M. M. y Kane, J. W. (2da Edición). Física. Disponible en: https://bibvirtual.upch.edu.pe:2893/es/lc/cayetano/titulos/100529"
+        ]    
+      }
+    }
+    ,
+    {
+    "codigo": "U0137",
+    "nombre": "CÁLCULO INTEGRAL PARA INGENIERÍA",
+    "prerequisito": "U0130",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Asignatura de naturaleza teórica que tiene como objetivo capacitar el alumno al cálculo integral para uso en ingeniería. La asignatura trata del cálculo integral en una variable desarrollando conceptos, propiedades y aplicaciones. Se inicia relacionando la noción de área de una región plana limitada por la gráfica de una función con el concepto de integral definida, presentando los teoremas fundamentales del cálculo integral, completándose con aplicaciones al cálculo del volumen de sólidos geométricos, la longitud de arco, el área de superficies de revolución, el centro de masa de una región plana y el teorema de Pappus para volumen; ampliando luego a integrales impropias y algunos criterios de convergencia y el polinomio de Taylor. Se concluye con una introducción a las técnicas para resolver ecuaciones diferenciales ordinarias de primer y segundo orden.",
+        "unidades": [
+        {
+        "titulo": "",
+        "contenido": "UNIDAD 1: Integral indefinida - Método de integración\n▪ Antiderivada\n▪ Integración de formas elementales\n▪ Constante de integración\n▪ Cambio de variable - sustitución\n▪ Integración por partes\n▪ Integración con potencias trigonométricas seno - coseno"
+        },
+        {
+        "titulo": "",
+        "contenido": "UNIDAD 2: Integral Definida\n▪ Teorema fundamental del cálculo\n▪ Propiedades de la integral definida\n▪ Área de una región en el plano"
+        },
+        {
+        "titulo": "",
+        "contenido": "UNIDAD 3: Aplicaciones de la integral definida\n▪ Volumen de un sólido de revolución\n▪ Longitud de arco de una curva\n▪ Áreas de superficie de revolución\n▪ Centro de masa de una región plana\n▪ Teorema de Pappus"
+        },
+        {
+        "titulo": "",
+        "contenido": "UNIDAD 4: Formas indeterminadas – Integrales impropias - Ecuaciones Diferenciales\n▪ Formas indeterminadas de tipo 0/0\n▪ Otras formas indeterminadas\n▪ Integrales impropias\n▪ Criterios de convergencia\n▪ Polinomio de Taylor\n▪ Introducción a las ecuaciones diferenciales de primer y de segundo orden"
+        }
+        ],
+        "resultados_aprendizaje": [
+        "Identificar los principios de la integral indefinida, resolviendo problemas para encontrar la constante de integración.",
+        "Analizar y resolver problemas de integración usando los diferentes métodos de integración, y determinando las áreas bajo la curva.",
+        "Comprende los principales conceptos y teoremas concernientes a la integral, y las aplica en la resolución de los problemas y análisis de situaciones concernientes a la ingeniería.",
+        "Comprende y aplica conceptos de formas indeterminadas, integrales impropias usando los criterios de convergencia."
+        ],
+        "bibliografia": {
+        "basica": [
+        "Ron Larson, Bruce Edward Cálculo, Tomo 1. 10ma Edición, CENGAGE Learning, 2016."
+        ],
+        "complementaria": [
+        "Colín María, Cálculo Integral vol 1, Editorial Éxodo, 2019.",
+        "Ortiz Francisco, Cálculo Integral vol 1, Editorial Patria, 2015.",
+        "Santiago Acosta Ruben, Cálculo Integral, 2 Edición, Editorial Pearson S. A., 2017.",
+        "Leal John, Cálculo Integral: técnicas de integración, Ediciones de la U, 2016.",
+        "Morales Álvares, Cálculo Integral para cursos con enfoque por competencias, 2da Edición, Editorial Pearson, 2017."
+        ]}
+    },
+    {
+            "codigo": "U0147",
+            "nombre": "Biología para Ingeniería",
+            "prerequisito": "NINGUNO",
+            "tipo": "OBLIGATORIO",
+            "sumilla": "Asignatura teórico-práctica que introduce los conceptos básicos sobre biología, evolución, estructura, función y diversidad biológica. La asignatura busca que el alumno comprenda la relación de la biología con los diversos campos de acción de la ingeniería, mediante el debate, diseño de propuestas y discusión de casos prácticos relacionados a la biología aplicada a las ingenierías.",
+            "unidades": [
+            {
+            "titulo": "",
+            "contenido": "PARTE 1:\n- Presentación del curso\n- Fundamentos de biología\n- Energía, vida y metabolismo\n- Compuestos inorgánicos\n- Compuestos orgánicos\n- Teoría celular y tipos de célula\n- Estructura celular\n- Procesos evolutivos\n- Biodiversidad y sus características\n- Fundamentos de genética\n- Reproducción sexual y asexual\n- Estructura y metabolismo del reino monera y protoctista\n- Estructura y metabolismo del reino fungi\n- Estructura y metabolismo del reino animal"
+            },
+            {
+            "titulo": "",
+            "contenido": "PARTE 2:\n- Estructura y metabolismo del reino vegetal\n- Biología aplicada al tratamiento de aguas\n- Biología aplicada a la remediación ambiental\n- Formas de vida\n- Ingeniería de los ecosistemas\n- Fundamentos de ecología\n- Servicios ecosistémicos y vulnerabilidad ambiental\n- Problemáticas ambientales\n- Control biológico de especies invasoras\n- Estadística aplicada al tratamiento de datos ambientales.\n- Estadística aplicada al tratamiento de datos biológicos.\n- Bioindicadores ecológicos\n- Hongos y remediación ambiental"
+            }
+            ],
+            "resultados_aprendizaje": [
+            "Conocer los fundamentos de la biología mediante la revisión de conceptos básicos.",
+            "Conocer y comprender conceptos relacionados con la biología para poder aplicarlos a desafíos de la ingeniería en investigación y/o innovación tecnológica.",
+            "Conocer e identificar el rol de la biología en el campo de la ingeniería mediante el estudio de casos prácticos y de actualidad."
+            ],
+            "bibliografia": {
+            "basica": [
+            "Freeman, Scott, Kim Quillin, Lizabeth Allison, Michael Black, Greg Podgorski, Emily Taylor, and Jeff Carmichael. Fundamentos De Biología. 6.ª Edición. ed. 2019.",
+            "Pallotti Sagripanti, Claudia Gabriela, and Enrique. Sanchis Duato. Biologí a Para Ciencias Ambientales. 2020. Acadé mica."
+            ],
+            "complementaria": [
+            "Campbell, Neil A., and Jane B. Reece. Biología. Séptima Edición.. ed. 2007.",
+            "Rossi Mayo, Luis Alberto, and Hugo Antonio Flores Liñán. Biología. 6a. ed. Lima: UPCH. Centro De Estudios Preuniversitarios, 2009.",
+            "Solomon, Eldra Pearl, Linda R. Berg, and Diana W. Martin. Biología. 8a. Edición. ed. 2008."
+            ]
+            }
+    },
+    {
+            "codigo": "U0149",
+            "nombre": "Fundamentos de Programación",
+            "prerequisito": "NINGUNO",
+            "tipo": "OBLIGATORIO",
+            "sumilla": "Asignatura teórico-práctica que permite al estudiante adquirir habilidades y conocimientos prácticos para resolver problemas usando computadoras. Se realiza una introducción a la programación, cuyo propósito es permitir al alumno desarrollar su capacidad de abstracción, y plantear soluciones a problemas de una manera lógica y algorítmica. Incluye, diseño de algoritmos, programación en un lenguaje orientado a objetos, instrucciones selectivas y repetitivas, funciones, listas, procesamiento de cadenas, vectores y matrices.",
+            "unidades": [
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 1: Conceptos básicos de la programación\n● ¿Qué es la computación? Hardware vs. Software.\n● Conceptos de lenguajes de programación\n● Variables, tipos de datos\n● Asignación, tipos de datos\n● Operadores aritméticos, booleanos, de cadenas\n● Operaciones de entrada y salida"
+            },
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 2: Control de flujo y abstracciones\n● Estructuras selectivas: if, else y elif\n● Estructuras repetitivas y generadores: while, for, range\n● Funciones\n● Librerías"
+            },
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 3: Estructuras de datos\n● Cadenas de texto\n● Contenedores: Listas, tuplas, diccionarios, conjuntos"
+            },
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 4: Resolución de problemas\n● Desarrollo de proyecto final"
+            }
+            ],
+            "resultados_aprendizaje": [
+            "Identificar conceptos de la computación y programación para la solución del problema",
+            "Escribir programas de computadora pequeños y medianos"
+            ],
+            "bibliografia": {
+            "basica": [
+            "Nolasco Velasco, J. (2018). Python: Aplicaciones prácticas."
+            ],
+            "complementaria": [
+            "Algoritmos y programación: mejores prácticas. Ayala San Martín, G. FundaciónUniversidad de las Américas Puebla (UDLAP). 2020.",
+            "Breve historia de la computación. Ceruzzi, P. E.FCE - Fondo de Cultura Económica.2018.",
+            "Introducción a la Informática básica. Gómez Palomo, S. R. Chaos García, D. y GómezPalomo, UNED - Universidad Nacional de Educación a Distancia. 2017.",
+            "Rojas, S., Hector Fernandez, & Ruiz, J. (2016). Aprendiendo a Programar en Pythoncon mi Computador. Open Textbook Library."
+            ]
+            }
+    },
+    {
+            "codigo": "U0150",
+            "nombre": "PROCESOS DE INNOVACIÓN EN INGENIERÍA",
+            "prerequisito": "Ninguno",
+            "tipo": "OBLIGATORIO",
+            "sumilla": "Este curso acerca en la parte teórica a los estudiantes a la comprensión de todo el proceso de innovación. Los estudiantes desarrollan el proceso de innovación, sus contingencias y las actividades centrales a lo largo de las fases: empatizar, definir, idear, prototipar y testear. El curso busca que los estudiantes sean capaces de hacer diagnósticos de problemas relacionados al medioambiente, definiendo el problema a nivel de efectos en 4 dimensiones: Identificación de los efectos, medición de los efectos, comparación con estándares e impactos; para finalmente estar en capacidad de definir el problema.\n\nSe prioriza el trabajo de los estudiantes en las tres primeras fases del proceso de innovación: empatizar, a través de herramientas de interacción con el usuario con la finalidad de entender sus necesidades, definir los requerimientos de diseño y analizar el estado del arte sobre un problema específico e idear propuestas de solución que generen valor. El prototipado y testeo de las ideas será teórico. Los estudiantes recibirán retos multidisciplinarios que resolverán a lo largo del semestre bajo la guía de los profesores de las diferentes especialidades.",
+            "unidades": [
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 1: Introducción al enfoque del Design Thinking y Empatizar"
+            },
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 2: Definir"
+            },
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 3: Idear"
+            },
+            {
+            "titulo": "",
+            "contenido": "UNIDAD 4: Prototipar y Evaluar"
+            }
+            ],
+            "resultados_aprendizaje": [
+            "Identificar los usuarios del reto planteado de manera correcta.",
+            "Capturar las necesidades o deseos de usuarios y/o clientes de las soluciones propuestas.",
+            "Analizar el estado del arte y definir un problema específico.",
+            "Idear propuestas de solución para el desarrollo de nuevos productos, procesos o servicios."
+            ],
+            "bibliografia": {
+            "basica": [
+            "Muñoz Andrés, V. y Álvarez Rodríguez, J. (2018). Bases de la ingeniería ambiental."
+            ],
+            "complementaria": [
+            "Gea-Izquierdo, E. (2017). Salud ambiental. Editorial de la Pontificia Universidad Católica del Ecuador.",
+            "Paredes Ceballos, M. Y. Uribe Villamil, L. F. y Rosales Paredes, V. F. (2019). Manual de impacto ambiental. Ediciones de la U."
+            ]
+            }
+    },
+    {
+        "codigo": "U0083",
+        "nombre": "COMUNICACIÓN Y REDACCIÓN II",
+        "prerequisito": "U0082",
+        "tipo": "OBLIGATORIO",
+        "sumilla": "Es una asignatura de naturaleza teórico-práctica, del área de Estudios Generales, cuyo propósito es lograr un nivel superior en el manejo de la expresión oral, la lectura crítica y la producción de textos formales. Abarca los contenidos prácticos de la expresión oral; los niveles inferenciales, críticos y analógico-valorativos para la comprensión de textos, y los modelos de redacción de textos expositivos, argumentativos, ensayos y documentos públicos para que la o el estudiante demuestre una comunicación oral y escrita superior, coherente y respetuosa de la normativa gramatical de la lengua española.",
+        "unidades": [
+        {
+        "titulo": "",
+        "contenido": "UNIDAD 1: La comunicación oral\n✔ Pautas para la comunicación oral con eficacia, autocontrol y dominio del lenguaje verbal y no verbal, mediante la exposición de una reseña y la actividad del debate"
+        },
+        {
+        "titulo": "",
+        "contenido": "UNIDAD 2: La comprensión lectora\n✔ Identificación de la estructura textual: Ideas principales y secundarias; tema y título\n✔ Estrategias de lectura y de organización de la información: mapa conceptual\n✔ Los niveles de análisis de lectura: Inferencial, crítico y analógico-valorativo de textos académicos y literarios\n✔ Lectura de textos académicos (artículo científico y monografía)"
+        },
+        {
+        "titulo": "",
+        "contenido": "UNIDAD 3: La comunicación escrita\nNormativa ortográfica:\n✔ Uso de las reglas de acentuación escrita\n✔ Aplicación de los principales signos de puntuación\n✔ Uso de grafías y uso de letras mayúsculas\n✔ Reconocimiento de los vicios del lenguaje: Barbarismos y conjugación verbal\nNormativa para la redacción\n✔ Aplicación de los referentes: Anáforas y catáforas y los conectores lógicos\n✔ Reconocimiento de solecismos: Redundancia, queísmo, dequeísmo, imprecisión e impropiedad léxica\n✔ Uso adecuado de verbos principales, subordinados y formas no personales\n✔ Uso correcto de los gerundios\nProducción de textos\n✔ Reconocimiento de la redacción, y de la estructura y tipos de textos\n✔ Ejercicios de redacción: El párrafo analizante, sintetizante y encuadrado\n✔ Redacción de una reseña académica acerca de visita de estudio y fuentes bibliográficas\n✔ Elaboración de un esquema para la redacción de un texto argumentativo\n✔ Redacción de un texto argumentativo\n✔ Redacción de un texto ensayo expositivo-argumentativo"
+        }
+        ],
+        "resultados_aprendizaje": [
+        "Comunicar oralmente la información académica con eficacia, autocontrol y dominio del lenguaje verbal y no verbal.",
+        "Comprender textos literarios y académicos, según los niveles inferenciales, críticos y analógico-valorativos",
+        "Aplicar correctamente la normativa lingüística para garantizar la comunicación del mensaje.",
+        "Redactar textos académicos (con coherencia, corrección ortográfica y cohesión) que respeten los derechos del autor y la propiedad intelectual de las fuentes investigadas."
+        ],
+        "bibliografia": {
+        "basica": [
+        "Gavidia Anticona, J. (2016). Manual de ortografía.",
+        "Ander-Egg, E. (2017). Cómo elaborar monografías, artículos científicos y otros textos expositivos."
+        ],
+        "complementaria": [
+        "Beller Taboada, W. (2018). Elementos de lógica argumentativa para la escritura académica.",
+        "Perdigón, A. T. (2018). ¿Escritura disciplinar? una experiencia a partir de la lectura crítica y la habilidad argumentativa en la universidad."
+        ]
+        }
+    }
+   ]
+}
